@@ -81,7 +81,7 @@ def reduce_rows(rows)
   raise "Can't reduce!" 
 end
 
-CSV.open("./account-change-orders/customer-district-ids.csv", "w") do |csv|
+CSV.open("./import/1-customer-district-ids.csv", "w") do |csv|
   csv << ["Customer ID","Internal ID", "Netsuite Name", "District ID", "DR Name"]
   matches.each do |internal_id, rows|
     if rows.count > 1

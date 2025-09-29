@@ -1,20 +1,26 @@
-* QR code is being sent
-** Netsuite forms aren't the best
-** Google form / Ticket (Zendesk)
-* Add contact roles for customer
-** DR Purchasing
-** DR Admin
-** DR IT contact
+# Import Change Orders and Subscriptions to Netsuite
 
-* Negative change order
+1. First export data from a fresh production copy
 
-Subscriptions Module
+```
+$ bash account-change-orders/scripts/1-export-dr-change-orders.sh > account-change-orders/netsuite.csv
 
-- Subscriptions
--- Sales Order
--- Item record
+$ bash account-change-orders/scripts/2-export-subscriptions.sh > account-change-orders/dr-subscriptions.csv
+```
 
-Sublist for DR contracts
+2. Prepare the data for Netsuite import
 
-* deleted
-* Weborders throught to test
+```
+$ ruby 1-link-change-orders.rb
+# => ./import/1-customer-district-ids.csv
+
+$ ruby 2-link-subscriptions.rb
+# => ./import/2-subscriptions.csv
+```
+
+3. Import csv files
+
+* Customer import mapping dr_district_id:
+import/1-customer-district-ids.csv
+* Custom Record (DR Subscription) import
+import/2-subscriptions.csv
