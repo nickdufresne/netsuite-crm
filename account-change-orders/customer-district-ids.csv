@@ -1,0 +1,1439 @@
+Customer ID,Internal ID,Netsuite Name,District ID,DR Name
+C002427,27045,Jefferson County PS- JCPS (KY),36357,Jefferson County Public Schools (KY)
+C010917,22344,Linden CS (MI),36829,Linden Community Schools (MI)
+C002439,16836,Jessamine CS (KY),37866,Jessamine County Schools
+C011943,6870,Brandon School District (MI),36874,Brandon School District
+C001920,11617,Green Bay Area PS (WI),36732,Green Bay Area Public School District (WI)
+C002678,21957,Lakeland CSD (NY),34916,Lakeland Central School District (NY)
+C058709,518597,Ana Gilbert,16914,Ana Gilbert
+C025569,29340,School District of Hamtramck (MI),37555,Hamtramck Public School District
+C013027,1931,Sweet Home CSD (NY),37518,Sweet Home Central Sch Dist (NY)
+C032590,29953,SD of Manatee County (FL),5101,School District of Manatee County (FL)
+C000397,26947,Bernards Township BOE (NJ),37087,Bernards Township School District (NJ)
+C058497:1,1029951,Ellsworth SD (ME) : Ellsworth Elem MS (ME),37911,Ellsworth Schools
+C013165,27652,Lori Feldman,37255,Lori Feldman
+C004046,1407,Poway USD (CA),37516,Poway Unified School District (CA)
+C002291,11635,Hudson PS (MA),37395,Hudson Public Schools
+C007076,32317,NYC DoE - The City of New York (NY),37188,NYC Dept of Ed - CBS!
+C016917,28129,Madison County BOE (KY),37451,Madison County Board of Education (KY) CBS
+C036670,25416,Milan Area Schools,37772,Milan Area Schools
+C022246,3175,Newaygo PS (MI),37685,Newaygo Public Schools
+C004430,32215,Sanford SD (ME),36898,Sanford School District (ME)
+C059098,561098,Candace Gwin,37511,Candace Gwin
+C017702,33308,SD of Wausaukee (WI),37573,School District of Wausaukee
+C017690,7603,SD of South Milwaukee (WI),37467,South Milwaukee School District (WI)
+C003044,32157,Maine SAD 54 - Skowhegan (ME),45378,Deborah Morrison
+C020421,13220,SD of West De Pere (WI),1168,West De Pere School District (CBS)
+C006998,27243,Waukee CSD (IA),36627,Waukee Community School District (IA)
+C011457,27472,Auburn SD (ME),37535,Auburn School Department (ME)
+C034549,25130,Waterloo CSD (NY),627,Waterloo School District
+C002501,11645,Kanawha CS (WV),37106,Kanawha County School District
+C003804,16897,Oshkosh Area SD (WI),37455,Oshkosh Area School District (WI)
+C007325,17038,Bullitt County BOE (KY),36799,Bullitt County Public Schools **CBS**
+C017527,33284,Pinellas CS (FL),37383,Pinellas County Schools - CBS
+C000980,1277,Columbia PS (MO),37744,Columbia Public Schools (MO)
+C000732,21870,Carroll County Public Schools (MD),37724,Carroll County Public Schools
+C036666,4788,Academy Charter School (NY),37731,Academy Charter School Wyandanch (NY)
+C003040,11671,MSAD 41 (ME),36808,Maine School Admin District 41 (ME)
+C016987,28139,Winchester School District,37577,Winchester School District (NH)
+C015745,12578,Fayette CPS (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C011364,17250,Mt Blue Regional SD RSU 9 (ME),38775,Mt Blue Regional SD RSU 9 (ME)
+C025345:2,989942,Spartanburg CSD 5 (SC) : Reidville Elem (SC),36618,Spartanburg County School District #5 (CBS)
+C005382,32253,West Fargo PS (ND),36861,West Fargo Public School District #6 (ND) (CBS)
+C000047,26933,Aiken CPS (SC),37587,Aiken County Public School District (SC)
+C011177,27450,Lamar CISD (TX),37330,Lamar Consolidated ISD
+C027205,19357,Detroit Country Day School (MI),37770,Detroit Country Day School (Lower School) (MI)
+C000422,11554,Birmingham PS (MI),37049,Birmingham Public Schools
+C038867,20599,Marquette Catholic Schools (IA),37617,Marquette Catholic School
+C059290,581999,Johanna Nader,37667,Caroline Nathans
+C063619,909288,Elizabeth Lucier,38857,A2Virtual
+C036255,15032,Allamakee CSD (IA),36949,Allamakee Community School District
+C007231,1545,Kinnelon BOE (NJ),32853,Kinnelon Board of Education (NJ)
+C059576,613730,Anne Devita,37748,Anne Devita
+C025817,8738,Salamanca City Central SD (NY),36807,Salamanca City Central School District (NY)
+C044323,36378,Weston School District (WI),37640,Weston School District (WI)
+C059593,616144,SD Solon Springs (WI),37816,School District of Solon Springs
+C001540,1299,Evergreen SD No. 114 (WA),233,Evergreen School District No. 114 (WA)
+C011212,27451,Jay School Corp (IN),36782,Jay Schools Corp
+C012912,22531,District of Columbia Public Schools (DC),33910,DCPS (DC Public Schools)
+C059727,630994,Lezlie Gaffigan,37831,Lezlie Gaffigan
+C008293,27309,Wolfe County BOE (KY),47702,Wolfe County Board of Ed (KY)
+C018458,33412,Ashwaubenon SD (WI),37219,Ashwaubenon School District
+C000171,16736,Arlington Public Schools (VA),36812,Arlington Public Schools - Capped By Schools
+C073491,975701,Pine Street Elementary School PTO,36618,Spartanburg County School District #5 (CBS)
+C059846,641863,Mallets Bay School (VT),38793,Colchester School District (VT)
+C014338,12402,Oxford Community Schools (MI),33897,Oxford Community Schools (MI)
+C004137,1410,Randolph County Schools (NC),36892,Randolph County Board of Education (NC) - CBS
+C014639,12441,Novi Community Schools (MI),37170,Novi Community School District (MI)
+C005094,27176,Trenton PS (MI),37371,Trenton Public Schools
+C008905,6713,Wayne-Westland Community Schools (MI),38011,Wayne-Westland Community Schools (MI)
+C017320,12796,Plymouth PS (MA),223,Dennis-Yarmouth Regional School District (MA)
+C033528,30082,Saugerties Central SD (NY),37264,Saugerties Central SD (NY)
+C025748,13964,Lincoln Park PS (MI),37897,Lincoln Park Public School District
+C000153,32036,Appleton Area SD (WI),37033,Appleton Area School District (WI)
+C018082,7658,Lee Academy Pilot School (BPS),37376,Boston Public Schools  (CBS)
+C018029,23197,Batavia PS #101 (IL),31,Batavia Public Schools #101
+C000314,32042,Beaufort CS (NC),36813,Beaufort County Board of Ed (NC) (CBS)
+C000991,21880,Schaumburg SD 54 (IL),38057,Community Consolidated School District 54 (Schaumburg)
+C004733,6525,South Lyon CS (MI),36785,South Lyon Community Schools (MI)
+C004705,6523,Souderton Area SD (PA),37993,Souderton Area School District (PA)
+C021764,8178,Owosso PS (MI),36814,Owosso Public Schools (MI)
+C002189,27030,Hilton CSD (NY),37481,Hilton Central School District (NY) - CBS
+C001989,6420,Gwinnett County PS (GA),2,PVB CSR
+C014624,7203,Karen Saucier,38000,Karen Saucier
+C002467,16837,Johnston CS (IA),380,Johnston Community Schools (IA)
+C060273,689022,Hicks Elementary School,38011,Wayne-Westland Community Schools (MI)
+C009284,11943,Joy Mewhinney,5795,Joy Mewhinney
+C031572,14399,Elkhorn Area School District,37692,Elkhorn Area School District
+C008923,27341,Bloomfield Hills Schools (MI),37788,Bloomfield Hills Schools (MI)
+C014329,2104,RSU 68/MSAD 68 (ME),38284,RSU 68/MSAD 68 (ME)
+C014876,7235,SD of Greenville County (SC),36022,School District of Greenville County (CBS!!)
+C000690,21867,Spartanburg SD One (SC),507,Spartanburg County District I Schools (SC) (CBS)
+C051986,74631,Iran Ramirez-Ducharme,37307,Rochester Community Schools
+C011314,12055,Sun Prairie Area SD (WI),38249,Sun Prairie Area School District (WI) (CBS!!)
+C052915,141246,Kristen Cruikshank,37330,Lamar Consolidated ISD
+C037271,20379,Kerrie Keaney,5348,Kerrie Keaney
+C000756,1266,Catskill CS (NY),37037,Catskill Central School District
+C052584,130780,Martin Sutler,37188,NYC Dept of Ed - CBS!
+C011283,32525,Niskayuna Central Schools (NY),37907,Niskayuna Central School District
+C045767,10889,Sofia Carmona,31,Batavia Public Schools #101
+C005362,1471,Wellesley PS (MA),32269,Wellesley Public School District
+C003009,32154,Madison Metropolitan SD (WI),38070,Madison Metropolitan
+C031088,9109,Katonah-Lewisboro Schools (NY),38285,Katonah-Lewisboro Schools (NY)
+C056418,358882,Roslyn Levine,34664,Roslyn Levine
+C004929,6533,Summit Hill SD 161 (IL),38238,Summit Hill School District 161 (IL)
+C003972,16900,School District of Pickens County (SC),38311,Pickens County School District SC - (CBS)
+C060819,728025,Lynn Burns,38297,Lynn Burns
+C000497,1251,Boston PS (MA),46431,Boston Public Schools - Auditing City of Boston
+C001267,1287,Des Moines PS (IA),38327,Des Moines Public Schools (CBS)
+C023703,8449,Public Schools of Edison Township (NJ),36907,Public Schools of Edison Township (NJ)
+C060920,731887,Erica Johnson,37307,Rochester Community Schools
+C060937,732308,Marilyn McCall,38370,Marilyn McCall
+C014360,17582,Marshall PS (MI),38419,Marshall Public School District (MI)
+C054301,197794,Nina Fernandez,38407,nina fernandez
+C005386,16965,West Hartford Public Schools (CT),38414,Kristen Cool
+C061022,737159,Jacqueline Duane,986,Jackie Duane - 169769
+C061031,737554,Maryellen Clement,38424,Maryellen Clement
+C011023,27440,Orange City Schools (OH),36831,Orange City School District
+C005755,6571,Maine School Admin District #75 (ME),38488,Maine School Admin District #75 (MSAD 75)
+C044789,21175,Arlington Heights SD 25 (IL),624,Arlington Heights School District 25
+C003824,11710,Oxford Hills SD (MSAD 17- ME),44153,Paris Elementary School
+C021780,18603,South Callaway R-II SD (MO),38803,South Callaway R-II School District
+C061218,750953,Kathleen Kelley,37376,Boston Public Schools  (CBS)
+C004742,16932,South-Western CS (OH),35471,South Western City Schools (OH) CBS
+C004137:14,1035168,Randolph County Schools (NC) : John Lawrence Elem (NC),36892,Randolph County Board of Education (NC) - CBS
+C009201,17136,Rockton School District #140,38518,Rockton School District #140
+C022622,28929,Denville Township BOE (NJ),38576,Denville Township Board of Education
+C002400,32132,Jacksonville SD #117 (IL),36883,Jacksonville SD #117
+C061306,755711,Tejal Parikh,38561,Tejal parikh
+C018029:2,1035896,Batavia PS #101 (IL) : Hoover-Wood Elem (IL),31,Batavia Public Schools #101
+C067725,963253,Rachel Ferullo,36039,St Josephs College of Maine
+C061280,754197,Alex Freqeau,37376,Boston Public Schools  (CBS)
+C010902,17224,Campbell County SD No 1 (WY),32260,Campbell County School District 1
+C003850,1399,Palo Alto USD (CA),36965,Palo Alto Unified School District (CBS)
+C015425,22842,Coldwater CS (MI),36870,Coldwater Community Schools (MI)
+C000690:5,984636,Spartanburg SD One (SC) : Inman Elementary (SC),507,Spartanburg County District I Schools (SC) (CBS)
+C061485,766114,Nicole Dixon,38632,Nicole Dixon
+C006815,22113,Shelby County PS (KY),36552,Shelby County Public Schools (KY) (CBS!!!)
+C003842,32186,SD of Palm Beach County (FL),38802,School District of Palm Beach County (FL)
+C000690:4,984635,Spartanburg SD One (SC) : O P Earle Elementary (SC),507,Spartanburg County District I Schools (SC) (CBS)
+C000961,11577,Colchester School District (VT),38793,Colchester School District (VT)
+C006693,6592,Red Oak ISD (TX),36864,Red Oak ISD (TX)
+C054230,193964,Renelle Pollard,37535,Auburn School Department (ME)
+C015993,28004,Vernon BOE (CT),38732,Vernon Public School District (CT)
+C004512,22033,Cook County SD 130,38849,Cook County School District 130
+C061689,780435,Beth Ethridge,38731,Beth Ethridge
+C003686,21998,Northwest Allen CS (IN),38743,Northwest Allen County Schools
+C058797,528151,Martha Heller-Winokur,37354,Martha Heller-Winokur
+C004110,6501,Quincy/Adams PSD #172 (IL),36755,Quincy School District 172 / Quincy/Adams PSD #172 (IL)
+C002220,6425,Holly Area Schools (MI),36727,Holly Area Schools
+C011615,12081,Earlham CSD (IA),174,Earlham CSD (IA)
+C003857,1400,Paoli Community School Corp (IN),38943,Paoli Community School Corporation
+C062009,803985,Joanna Kovacs,36965,Palo Alto Unified School District (CBS)
+C000934,16764,Clover SD (SC),36689,Clover School District #2
+C004296,27139,Rondout Valley CSD (NY),37658,Christine Riley
+C006418,32280,Lois D Ruckert,336,Lois Ruckert
+C062108,809646,Lynne Renzi,3983,Lynne Renzi
+C045290,5737,Lyndsey Elliott,36618,Spartanburg County School District #5 (CBS)
+C062235,820333,Kathleen Frazier,37376,Boston Public Schools  (CBS)
+C021702,13399,Montrose Community Schools (MI),39006,Montrose Community Schools
+C025345,29308,Spartanburg CSD 5 (SC),36618,Spartanburg County School District #5 (CBS)
+C022171,13464,Essentials in Learning (CO),39230,Josh Guddat
+C021935,23749,St Patrick's Episcopal Day School (DC),39435,St Patrick's Episcopal Day School
+C056680,379562,Paula McGowan,37383,Pinellas County Schools - CBS
+C043571,21008,Tara Elementary School,5101,School District of Manatee County (FL)
+C023994,29119,York CSD (NY),167,York CSD
+C012492,22477,Goodrich Area Schools (MI),429,Goodrich Area Schools
+C062768,850051,Marbletown Elementary School (Rondout Valley CSD),37658,Christine Riley
+C062832,853497,Kathleen Hickey,37376,Boston Public Schools  (CBS)
+C003635,11702,North Kansas CS (MO),41799,North Kansas City Schools (MO)
+C020543,28634,Racine USD (WI),197,Racine Unified School District (WI)
+C062913,858052,Heather Driggs,39823,Heather Driggs
+C062202,818190,MSAD #13 /RSU83,39876,MSAD #13 /RSU83
+C063169,877007,James Shapiro,40021,Willow Park Junior Public School (CAN) - International
+C063183,878013,Jodi Pollak,39705,JODI
+C008769,27334,Hillsdale CS (MI),1874,Hillsdale Cmty Schools (MI)
+C059767,635015,Dawn Cottman,33910,DCPS (DC Public Schools)
+C002751,1351,Lebanon SD R-III (MO),40041,Lebanon School District R-III (MO)
+C063493,900897,Manchester Elementary School,37724,Carroll County Public Schools
+C060785,725910,Maine School Admin District 59 (ME),40104,Maine School Admin District 59
+C080926:1,1034746,Baker Charter Schools (OR) : Baker Web Acad (OR),40174,Baker Charter Schools
+C063535,904237,Kerri Connelly,37376,Boston Public Schools  (CBS)
+C063617,908984,Buena Vista Elementary (SC),36022,School District of Greenville County (CBS!!)
+C063645,911737,Tree House Books,40364,Emma Goldstein
+C063671,913179,Jananne Waller,40387,Jananne Waller
+C006761,32298,Hanford Elem SD (CA),40398,Hanford Elementary SD (CA)
+C043549,15788,Victor Elem SD (CA),35415,Victor Elementary School District (CA)
+C012459,32633,Rochester CS (MI),37307,Rochester Community Schools
+C004997,32240,Temecula Valley USD (CA),40698,Temecula Valley Unified School District
+C064028,950758,Cathy Weber,40711,Cathy Weber - International
+C056705,381073,University of San Francisco,37074,University of San Francisco
+C018251,12924,Mamaroneck Union Free SD (NY),1035,Mamaroneck Union Free School District (NY)
+C063007,864503,Athens Academy (GA),40768,Athens Academy (GA)
+C020065,18360,School Administrative Unit #72 (NH),37312,Alton Central School (SAU 72 NH)
+C008732,17108,Hauppauge UFSD (NY),38871,Hauppauge UFSD (NY)
+C006760,27227,Charleston CUSD 1 (IL),36466,Charleston Cmty Unit SD 1 (IL)
+C046346,36662,Sawgrass Lake Elementary School - PTA,37383,Pinellas County Schools - CBS
+C064172,955730,Tara LaBarre,37770,Detroit Country Day School (Lower School) (MI)
+C012776,6975,Western Dubuque Schools (IA),32424,Western Dubuque Schools
+C005081,32242,Torrance USD (CA),35744,Torrance Unified School District
+C056366,355861,Palmdale SD (CA),38253,Palmdale School District (CA)
+C002821,1354,Lexington County SD One (SC),32134,Lexington County SD One (SC)
+C050290,38119,Chester County Intermediate Unit (PA),41086,Chester County Intermediate Unit
+C005068,1458,Todd County SD 66-1 (SD),36886,Todd County School District 66-1 (SD)
+C004271,6509,Rock Hill Schools (York Co. District 3 SC),39733,Rock Hill School District ((CBS!!))
+C064382,956315,Brooke Wofsy,41068,Brooke Wofsy
+C006943,32308,Ohio County BOE (KY),35899,Ohio County Schools (KY)
+C032590:1,1030157,SD of Manatee County (FL) : Jessie P Miller Elem (FL),5101,School District of Manatee County (FL)
+C027054,34609,Aurora City Schools (OH),36705,Aurora City Schools
+C001250,21893,Denton ISD (TX),38281,Denton Independent School District (TX)
+C020338,18399,Maryland State Department of Education,41537,St. Louis School
+C000980:3,1030919,Columbia PS (MO) : Rock Bridge Elementary (MO),37744,Columbia Public Schools (MO)
+C012292,1838,Atherton Community Schools (MI),35984,Atherton Community Schools (MI)
+C021905,13427,Saginaw Township CS (MI),41135,Saginaw Township Comm Schools (MI)  !!!CBS!!!
+C011667,27487,Minot PS (ND),37218,Minot Public Schools (ND)
+C064375,956284,Lana Tran,37424,Lana Tran
+C009584,11430,C/O Teachers Resource Centre,23452,Catherine Proctor (Anguilla) - International
+C002868,27065,Lindsay USD (CA),36472,Lindsay Unified School District (CA)
+C037869,35733,McNeal Elementary (Manatee),5101,School District of Manatee County (FL)
+C044504:1,1033433,Boyle County Schools (KY) : Woodlawn Elementary (KY),36599,Boyle County Schools (KY)
+C001549,11602,Exeter USD - Tulare County TCOE (CA),35294,Exeter Unified School District
+C064622,957015,Clarence Lake,41080,Kenda Lake
+C042988,10505,Little Lake CSD (CA),41168,Little Lake City School Dist (CA)
+C042795,26021,Dearborn Heights School District No. 7 (MI),41291,Dearborn Heights
+C063703,915337,First Presbyterian Day School (FL),41192,St. Petersburg Primary School
+C012485,22476,Jackson Public Schools (MI),37340,Jackson Public Schools (MI)
+C054720,224325,Tri County North Local Schools,41512,Tri County North Local Schools (OH)
+C031049,24659,The Lamphere Schools (MI),32224,Lamphere School District (MI)
+C022717,13542,Brush SD RE-2 (CO),36670,Brush Schools
+C009771,32453,Ann Arbor PS (MI),38857,A2Virtual
+C020169,13185,School District of Holmen (WI),41934,School District of Holmen
+C038166,15292,Baker School District 5J,41230,Baker School District 5J
+C008784,32401,Seneca Falls CSD (NY),32196,Seneca Falls Central School District (NY)
+C006668,22105,Walled Lake Consolidated SD (MI),367,Walled Lake CSD
+C056041,333341,Kathleen Coyne,36812,Arlington Public Schools - Capped By Schools
+C038765,35855,Virginia Chance School (KY),38871,Hauppauge UFSD (NY)
+C056861,391783,Jill Reardon,37334,South Kingstown School Dept
+C010707,22335,Burgin Independent Schools (KY),879,Burgin Independent Schools (KY)
+C064713,957304,Cynthia McVeigh,37334,South Kingstown School Dept
+C026269,29438,Warren Woods PS (MI),681,Warren Woods Public Schools (MI)
+C055627,297918,Laurie Tinsley,32410,Read With Me Inc
+C002456,32135,Johnson CS (TN),37966,Johnson City Schools (TN)
+C056847,390679,Harlan Kinzer,35674,Harlan Kinzer
+C013009,17412,Sheila Self,41264,Sheila Self
+C019733,2818,Pike County School System (KY),108,Pike County Schools (KY) - CBS!
+C018407,23251,Lenox Public Schools,41578,Lenox Public Schools
+C029206,14283,Saint Bridget Schools (VA),41294,Saint Bridget Catholic School
+C001248,11590,Dennis-Yarmouth RSD (MA),223,Dennis-Yarmouth Regional School District (MA)
+C000928,21878,Clinton School District (MO),15017,Clinton School District
+C001818,27012,Gibraltar SD (MI),36560,Gibraltar School District (MI)
+C055901,324680,Melissa Hogendorp,24199,Melissa Hogendorp
+C064433,956497,Mary House,41306,mary house
+C039072,30831,Sebago Schools (ME),41321,Sebago Schools
+C020271,33662,Grand Blanc Community Schools (MI),58,Grand Blanc Community Schools (CBS!!!)
+C064877,957608,Julie Munroe,37334,South Kingstown School Dept
+C064676,957226,Lori Corrigan,41319,Lori Corrigan
+C019124,2735,Eau Claire Area SD (WI),41337,Eau Claire Area School District (WI)
+C064880,957613,Karen Lawrence,41322,Karen Lawrence
+C025355,8674,Jinna Collins-Jwacu,1787,Jinna Collins-Jwacu
+C000362,26944,Bellmore UFSD (NY),37125,Bellmore Union Free School District
+C051428,54320,Ann-Bailey Lipsett,33305,Ann-Bailey Lipsett
+C025173,8648,Crete-Monee SD 201-U (IL),909,Crete-Monee School District 201-U (IL)
+C009006,22234,Lisa Gibbs,38180,Lisa Gibbs
+C023702,3379,Alton Central School (SAU 72 NH),37312,Alton Central School (SAU 72 NH)
+C000780,16759,Central Berkshire Regional SD (MA),35902,Central Berkshire Regional School District
+C014777,2157,Davis County Community School District (IA),36470,Davis County Community School District
+C063892,935349,Helen Robinson,41351,Helen Robinson
+C060145,673962,Teresa Knofler,41357,Teresa Knofler
+C008738,11916,Erica Uyehara,41363,Erica Uyehara
+C020209,2886,Wheaton CSD 200 (IL),33211,CUSD #200 - Wheaton IL
+C022196,33932,Rantoul City Schools (IL),35470,Rantoul City Schools
+C019197,18239,MSAD 28 (Camden Rockport Schools) (ME),23297,MSAD 28 (Five Town Community School District)
+C064228,955860,St Louis School (MD),41537,St. Louis School
+C064983,957783,Krista Ronalds,40711,Cathy Weber - International
+C003226,32162,Menasha Joint SD (WI),32836,Menasha Joint School District (WI)
+C004588,16924,Sheboygan Area SD (WI),41649,Sheboygan Area School District
+C003280,21982,Middle Township BOE (NJ),36862,Middle Township Board of Education (NJ)
+C005107,22058,Troy SD (MI),32166,Troy School District (MI)
+C005408,22072,Westborough PS  (MA),37177,Westborough Public Schools (MA)
+C012590,22490,Triopia CUSD #27 (IL),41399,Triopia CUSD 27
+C044504:3,1033435,Boyle County Schools (KY) : Junction City Elementary (KY),36599,Boyle County Schools (KY)
+C056129,338966,Anne Weidert,41406,Anne Weidert
+C064655,957140,Excel Academy Charter Schools (CA),41480,Excel Academy Charter School
+C003042,21971,Maine School Admin District 49 (ME),37342,MSAD 49
+C044504,31347,Boyle County Schools (KY),36599,Boyle County Schools (KY)
+C056768,385227,Yucaipa-Calimesa Joint USD (CA),36366,Yucaipa-Calimesa Joint USD
+C019086,23347,Smethport Area SD (PA),41416,Smethport Area SD (PA)
+C005267,16957,Walnut Creek SD (CA),35945,Walnut Creek School District
+C011362,6833,Saco School Department (ME),36952,Saco Schools **CBS**
+C012251,6909,Kelly McDermott,34901,Kelly McDermott
+C065115,958120,Nancy Hawkins,41367,Nancy Hawkins
+C003054,11672,RSU 21 (ME),41434,RSU 21
+C013759,22631,Simsbury Public Schools (CT),37361,Simsbury Public Schools (CT)
+C005406,11783,Westampton Township Board of Ed (NJ),38336,Natasha Harper
+C041511,10303,Cape Fear Center for Inquiry (NC),914,Cape Fear Center for Inquiry
+C018035,18075,Nancy Bilbao,35775,Nancy Bilbao
+C012846,6984,MSAD #46 / AOS #94 (ME),35760,AOS 94 (ME)
+C035350,4620,Sue Lease,35516,Susan Lease
+C063719,916677,Shorecrest Preparatory School (FL),41657,Shorecrest Preparatory School (FL)
+C047762,11168,Washington Charter School (CA),41598,Desert Sands Unified School District - Washington Charter School (CA)
+C001403,16791,East Granby BOE (CT),32518,East Granby Board of Education (CT)
+C061507,768024,Alexis Dejardin,36732,Green Bay Area Public School District (WI)
+C065178,958336,Jennifer Crosby,41521,Jennifer Crosby
+C058497,495811,Ellsworth SD (ME),37911,Ellsworth Schools
+C003595,21994,Nippersink SD 2 (IL),36901,Nippersink School District 2
+C065380,958790,Kristin Schmidt,38518,Rockton School District #140
+C011332,32529,RSU 19 (ME),36734,RSU 19
+C055767,314408,Britt Stoller,45319,Britt Stoller
+C064285,956033,Oglala Lakota CS (SD),42120,Oglala Lakota County School District
+C065164,958257,First Immanuel Lutheran School,41586,First Immanuel Lutheran School
+C065435,958946,April Cannon,38311,Pickens County School District SC - (CBS)
+C050299,38132,Adam Ganz,2828,Mindy Ganz
+C003120,27077,Marshfield R-I (MO),36896,Marshfield R-1 School District
+C019925,18341,Lee County  SD(FL),37323,School District of Lee County (FL)
+C065566,959257,Oxford Virtual Academy,33897,Oxford Community Schools (MI)
+C044856,5676,Huda School & Montessori,37163,Huda School & Montessori
+C004002,27126,Plainfield CCSD 202 (IL),33639,Plainfield CCSD 202 (IL)
+C032136,34948,Laona School District,41489,Amber Peters
+C043329,36242,Linda Rak,41538,Linda Rak
+C021298,23658,Hillsborough City SD (CA),41625,Hillsborough City School District (CA)
+C065413,958887,Alsea School District (OR),41678,Alsea School District
+C057942,459642,Muhammad Mosque No. 7,36816,Muhammad University of Islam
+C003972:7,1034885,School District of Pickens County (SC) : Hagood Elem (SC),38311,Pickens County School District SC - (CBS)
+C075951,981259,Bren Romney,23452,Catherine Proctor (Anguilla) - International
+C004110:3,1034640,Quincy/Adams PSD #172 (IL) : Lincoln Douglas Elem (IL),36755,Quincy School District 172 / Quincy/Adams PSD #172 (IL)
+C065706,959635,Sarah Michael,37181,Beaufort County School District - SC
+C065756,959723,Kiauna Browning,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C011442,22378,Heathwood Hall Episcopal School (SC),41790,Heathwood Hall Episcopal School (SC)
+C021686,3095,Pocatello/Chubbuck SD No. 25 (ID),42194,Pocatello/Chubbuck School District No. 25 (ID)
+C022707,34003,Tracie Guise,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C008923:3,1009400,Bloomfield Hills Schools (MI) : Conant Elementary School  (MI),37788,Bloomfield Hills Schools (MI)
+C065885,959948,Megan Ellwanger,38531,Flambeau Schools
+C064791,957454,Nancy Sipe,36753,Nancy Sipe
+C065929,960007,Evelyn Whited,32260,Campbell County School District 1
+C065928,960006,Heather Olstynski,37181,Beaufort County School District - SC
+C065935,960019,Beverly Strauser,41538,Linda Rak
+C059580,614630,Christine Riley,37658,Christine Riley
+C004110:1,1033401,Quincy/Adams PSD #172 (IL) : Baldwin Elem (IL),36755,Quincy School District 172 / Quincy/Adams PSD #172 (IL)
+C003972:1,1030002,School District of Pickens County (SC) : Pickens Elem (SC),38311,Pickens County School District SC - (CBS)
+C065992,960117,Sara Walden,41819,Sara Walden
+C009280,27359,Southfield PS (MI),36704,Southfield Public School District (MI)
+C004002:16,1032272,Plainfield CCSD 202 (IL) : Wesmere Elementary (IL),33639,Plainfield CCSD 202 (IL)
+C065999,960133,Kendra VanRobays,37307,Rochester Community Schools
+C004776,11753,Spartanburg CSD 7 (SC),49124,Spartanburg County SD 7 (SC)
+C053483,163782,Rebecca Schaff,37081,Oxford Hills School District (MSAD 17- ME)
+C012276,27537,Dennis Major,37518,Sweet Home Central Sch Dist (NY)
+C001355,21896,Dumas ISD (TX),36096,Dumas Independent School District (TX)
+C066155,960419,Patty Lezon,3261,Crystal Lake Cmty Sch Dist 47
+C066157,960421,Tamara Hill,41856,Hill
+C066133,960372,Jessica Greco,37068,Edgewater Park Township School District
+C066136,960380,Tequila Howard,41880,Tequila Howard
+C002892,6451,Livonia PS (MI),41928,Amy Wehner
+C065735,959686,Lowell Elementary School (MMSD),38070,Madison Metropolitan
+C061099,744588,Kim Scott,41924,Kim Scott
+C006829,22114,Clemson University (SC),36059,Clemson University - Maryann McBride
+C000856,11574,Chillicothe City SD (OH),42703,Chillicothe City Schools
+C066414,960844,Shelley Burton,37966,Johnson City Schools (TN)
+C003917,22010,Pekin PSD #108 (IL),37082,Pekin Public Schools District 108
+C019993,7926,Lindsey Siglin,41787,Lindsey Siglin
+C066416,960849,Vicki Lawlor,41966,Vicki Lawlor
+C066425,960862,Christie Walter-Ness,37033,Appleton Area School District (WI)
+C065589,959311,Michigan International Prep School (MI),42057,Michigan International Prep School (MI)
+C016947,2439,Frank Allis Elementary (WI),38070,Madison Metropolitan
+C021555,13379,Broward County School Board (FL),46147,Broward County School Board
+C066576,961118,Jeff Steadman,39797,Jeff Steadman
+C020209:3,1033008,Wheaton CSD 200 (IL) : Longfellow Elementary (IL),33211,CUSD #200 - Wheaton IL
+C037896,30671,Christi Lensing,35705,Christi Lensing
+C066636,961212,Nicole Bedard,42011,Nicole Bedard
+C003052,1362,RSU 64 / MSAD 64 (ME),42054,RSU 64 MSAD 64 (ME)
+C011333:9,1035749,School District of Waukesha (WI) : eAchieve Academy (WI),42047,School District of Waukesha (WI)
+C005555,22081,Wisconsin Rapids SD (WI),42038,Wisconsin Rapids School District (WI) CBS!!
+C042348,31047,Kloiber Foundation,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C001445,16793,Edgewater Park Township BOE (NJ),37068,Edgewater Park Township School District
+C000690:2,984626,Spartanburg SD One (SC) : Holly Springs-Motlow Elem (SC),507,Spartanburg County District I Schools (SC) (CBS)
+C025403,3612,Cresskill BOE (NJ),42091,Cresskill Board of Education (NJ)
+C066614,961173,Angela Myers,37724,Carroll County Public Schools
+C057385,424486,Debby Kelleher,6607,Debby Kelleher
+C065397,958841,Brownsburg Community School Corp (IN),42785,Brownsburg Community Schools
+C066703,961319,Juhara Kirby,42087,Juhara Kirby
+C066612,961169,Jessica Verdin,42066,Jessica Verdin
+C015434,33000,Lapeer Community Schools (MI),41122,Lapeer Community Schools
+C066677,961273,Nancy Rydzewski,38011,Wayne-Westland Community Schools (MI)
+C065661,959526,Hilary Mark,36965,Palo Alto Unified School District (CBS)
+C000047:12,1029271,Aiken CPS (SC) : Redcliffe Elem (SC),37587,Aiken County Public School District (SC)
+C011647,32552,Grass Lake Community Schools (MI),36800,Grass Lake Community Schools (MI)
+C002751:2,983888,Lebanon SD R-III (MO) : Maplecrest Elementary (MO),40041,Lebanon School District R-III (MO)
+C066847,961650,Debra Rasmuson,37218,Minot Public Schools (ND)
+C066827,961596,Janell Pitman,36022,School District of Greenville County (CBS!!)
+C066864,961667,Jennifer Joyce,38057,Community Consolidated School District 54 (Schaumburg)
+C057648,439621,Genesee School District (MI),37092,Genesee School District (MI)
+C011275,27457,North Branch Area Schools (MI),42561,North Branch Area Schools (MI)
+C031095,9110,Davison CS (MI),42188,Davison Community Schools
+C022196:4,1029582,Rantoul City Schools (IL) : Broadmeadow Elem (IL),35470,Rantoul City Schools
+C006956,27240,SD of Lodi (WI),42357,School District of Lodi
+C066976,961860,Paula McCusker,42207,Paula McCusker
+C009777,27389,Marlboro Central SD (NY),36850,Marlboro Central School District (NY)
+C067021,961966,Leza Kessler,42223,Leza Kessler
+C058061,466558,Christine Batky,42250,Christine Batky
+C013824,32806,Elizabeth Curran,42256,Libby Curran
+C067098,962092,Adriana Rupert,42259,Adriana Rupert
+C023480,13650,Laura McLean,37788,Bloomfield Hills Schools (MI)
+C066889,961705,Valerie Williams,24046,Valerie Williams (Burmuda) - International
+C025260,24213,Mount Prospect School District 57,42343,Mount Prospect SD 57 (CBS!!)
+C067244,962350,Ashley Cartee,38803,South Callaway R-II School District
+C038143,4990,Almont Community Schools (MI),42309,Almont Community Schools
+C018874,13009,Pekin Community Schools,37082,Pekin Public Schools District 108
+C067289,962480,Nalaysha Jenkins,42316,Nalaysha Jenkins
+C059696,627473,Johanna Vriens,42319,Johanna Vriens
+C067287,962478,Jenna Houser,58,Grand Blanc Community Schools (CBS!!!)
+C066786,961482,Holy Family Parish School (MO),42334,Holy Family Parish School (MO)
+C067314,962515,Kim Adams,36022,School District of Greenville County (CBS!!)
+C058732,521411,Lauren Alexander,37376,Boston Public Schools  (CBS)
+C066746,961403,Dover Public Schools (NJ),42653,Dover Public School District (NJ)
+C067323,962525,Breanna Ouellette,42367,St. Michael School (MA)
+C010902:1,1029903,Campbell County SD No 1 (WY) : Pronghorn Elem (WY),32260,Campbell County School District 1
+C067328,962533,Elizabeth Kraemer,38070,Madison Metropolitan
+C064428,956483,Owen County BOE (KY),42411,Owen County Schools (KY)
+C067281,962441,Sharon Kausler,37788,Bloomfield Hills Schools (MI)
+C000980:7,1030931,Columbia PS (MO) : Parkade Elementary (MO),37744,Columbia Public Schools (MO)
+C011333,1753,School District of Waukesha (WI),42047,School District of Waukesha (WI)
+C051319,53425,Fountain Inn Elementary,36022,School District of Greenville County (CBS!!)
+C067240,962346,Karen Holt,42422,Karen Hammon-Holt
+C059147,566920,Ceres USD (CA),42451,Ceres Unified School District (CA)
+C038995,30820,Tereska Sims,36813,Beaufort County Board of Ed (NC) (CBS)
+C065160,958246,La Center SD (WA),41728,La Center School District
+C003042:3,1034460,Maine School Admin District 49 (ME) : Benton Elementary (ME),37342,MSAD 49
+C061103,745187,Fazilette Cilione,42489,Fazilette Cilione
+C067762,963321,MaryLynne Kerman,42485,MaryLynne  Kerman
+C020209:1,1033005,Wheaton CSD 200 (IL) : Johnson Elementary (IL),33211,CUSD #200 - Wheaton IL
+C067755,963313,Laura Chamberlain,42495,Laura Chamberlain (CAN) - International
+C067784,963379,Melissa Schwab,42188,Davison Community Schools
+C067785,963381,Wendy Lamoreaux,42499,Wendy Lamoreaux
+C020271:8,1033287,Grand Blanc Community Schools (MI) : Mason Elementary (MI),58,Grand Blanc Community Schools (CBS!!!)
+C067272,962404,Armstrong Parent Group,37177,Westborough Public Schools (MA)
+C020271:4,1033282,Grand Blanc Community Schools (MI) : Myers Elementary (MI),58,Grand Blanc Community Schools (CBS!!!)
+C067757,963316,TAMMY BOLONGAITA,58,Grand Blanc Community Schools (CBS!!!)
+C020271:3,1033103,Grand Blanc Community Schools (MI) : Cook Elem (MI),58,Grand Blanc Community Schools (CBS!!!)
+C053434,161975,Kathy Genco,33681,Kathy Genco
+C067814,963425,Karen Skinner,42546,Karen Skinner
+C067926,963694,Erin Nichols,37188,NYC Dept of Ed - CBS!
+C061450,764081,Plainville PS (MA),42565,Plainville Public Schools (MA)
+C067890,963565,Suzanne Stork,36812,Arlington Public Schools - Capped By Schools
+C065639,959475,Trinity Lutheran School (MI),42638,Trinity Lutheran School (MI)
+C068090,963945,Sarah Pittman,42632,Sarah Pittman
+C011667:4,1036734,Minot PS (ND) : John Hoeven Elem (ND),37218,Minot Public Schools (ND)
+C068204,964222,Jennifer Calhoun,42658,Jennifer Calhoun
+C002815,6448,Lexington County SD 2 (SC),42683,Lexington County School District 2 (SC)
+C014850,17642,Patti Sullivan,42667,Patti Sullivan
+C068187,964182,Christopher Mirabal,37188,NYC Dept of Ed - CBS!
+C057241,416209,Stephanie Davidson,33910,DCPS (DC Public Schools)
+C014854,2168,Sara Pennings,42723,Sara Pennings
+C032597,29954,Eastpointe CS (MI),34081,Eastpointe Cmty Schools (MI)
+C065983,960101,Greentree Christian School,42756,Greentree Christian School
+C044101,10656,Sylina Massengill,42795,Sylina Massengill
+C068656,965181,Tonia Jackson,40698,Temecula Valley Unified School District
+C000137,21840,Annandale School District #876 (MN),5361,Annandale School District #876 (MN)
+C068753,965433,Cyndi Kirby,37897,Lincoln Park Public School District
+C005480,32256,William Floyd SD (NY),43048,William Floyd School District (CBS!!)
+C011364:1,1030804,Mt Blue Regional SD RSU 9 (ME) : Cascade Brook Sch (ME),38775,Mt Blue Regional SD RSU 9 (ME)
+C067823,963468,Delta Kelly PTA,37307,Rochester Community Schools
+C068930,965896,Jie Chen,42888,Mary L Turnbull
+C068934,965907,Mary Turnbull,42888,Mary L Turnbull
+C009812,27390,Shrewsbury PS (MA),35415,Victor Elementary School District (CA)
+C068195,964205,Woodville Union SD (CA),42904,Woodville Union School District
+C020525,8002,Estelline School District 28-2 (SD),42120,Oglala Lakota County School District
+C039234,35917,Lodi Primary School,42357,School District of Lodi
+C010863,32500,Santa Cruz City Schools (CA),37490,Bay view Elementary (Santa Cruz)
+C068931,965903,Algoma SD (WI),43248,Algoma School District
+C012549,27570,Henry Elementary (Parkway SD MO),4247,Elise Sivcovich
+C069220,966591,Mary Bowler,42972,Mary Bowler
+C047214,36785,Evans County BOE (GA),42981,Evans County School District
+C047851,36875,Sunrise SD (CAN),42983,Sunrise School Division (CAN) - International
+C035505,9710,Upper St. Clair Township School District (PA),42992,Upper St. Clair School District
+C069252,966658,Patricia Stamboulian,42982,Patricia Stamboulian
+C069136,966375,DeLand-Weldon CUSD #57 (IL),43212,Deland-Weldon CUSD #57
+C006668:9,1034859,Walled Lake Consolidated SD (MI) : Keith Elem (MI),367,Walled Lake CSD
+C065386,958801,Denise Stevens,42999,Denise Stevens
+C069299,966768,Allen Chin,43001,Allen Chin
+C020933,18483,Rhinebeck Central SD (NY),43209,Rhinebeck Central School District
+C069388,966949,Patricia Flaherty,43024,Patricia Flaherty
+C046734,16235,La'Juana McNeil,43028,La'Juana McNeil
+C020434,7989,Regional School Unit #2 (ME),43257,Regional School Unit #2
+C017527:45,1033054,Pinellas CS (FL) : St Petersburg Primary School (FL),41192,St. Petersburg Primary School
+C017471,33278,Berrien Springs PS (MI),43234,Berrien Springs Public Schools (MI)
+C068784,965516,Sacred Heart School (Reedsburg WI),43213,Sacred Heart School (WI)
+C009736,32451,Margaret Roberts,43042,Margaret Roberts
+C069479,967146,Cherokee Charter Academy,43053,Cherokee Charter Academy
+C069490,967159,Sarina Acevedo,43057,Sarina Acevedo
+C045356,21255,Cooperative Educational Service Agency (CESA) #6 (WI),43367,Cooperative Educational Service Agency (CESA) #6
+C069631,967456,Jennifer Sharp,43132,Jennifer Sharp (CAN) - International
+C069651,967525,Eve Nagler,43145,Eve Nagler
+C037999,20482,Logan County BOE (KY),43449,Logan County BOE
+C064508,956685,Barbara Falkenbury,43153,Barbara Falkenbury
+C035562,14942,Westside Christian School (WI),43161,Westside Chrisitan School (WI)
+C064751,957374,Rachel Lee,43165,Rachel Lee
+C020420,7987,Northbrook/Glenview School District 30 (IL),43386,Northbrook/Glenview School District 30
+C069730,967659,Jamie Osmulski,43169,Jamie Osmulski
+C069740,967727,Jodi Di Leo,43176,Jodi Di Leo
+C069749,967750,Hannah McDonald,43193,Hannah McDonald
+C069756,967762,Jeanne Thompson,43185,Jeanne Thompson
+C069800,967851,Sanilac Intermediate School District,43205,Sanilac Intermediate School District
+C015436,7298,School District of Shiocton,43396,Shiocton School District
+C069869,968052,Kenda Lake,41080,Kenda Lake
+C020038,23480,Marshall PS (WI),38070,Madison Metropolitan
+C017608,18015,Taryn LaRaja,43222,Sprouting Readers
+C069822,967893,Boston After School and Beyond,37376,Boston Public Schools  (CBS)
+C065134,958163,Jennifer Nguyen,41441,Jennifer  Nguyen
+C044504:2,1033434,Boyle County Schools (KY) : Perryville Elementary (KY),36599,Boyle County Schools (KY)
+C069949,968272,Jessica Olson,43238,Jessica Olson
+C063614,908683,St. Stephen School (MD),41093,St. Stephen School (MD)
+C035453,30335,Cinda Quinn,43243,Cinda Quinn
+C062897,856847,FACTS Education Solutions,46378,Community Christian School
+C075833,981022,Catherine Walton,43255,Catherine Walton
+C070007,968395,Meegan Devol,43264,Meegan Devol
+C050614,38917,Helen Maniates,37074,University of San Francisco
+C063486,900288,Amy Krebs,43285,Amy Krebs
+C070106,968558,Joanne Trumbull,43301,Joanne Trumbull
+C053026,146018,Kristen Cool,38414,Kristen Cool
+C005382:6,1032973,West Fargo PS (ND) : Freedom Elementary (ND),36861,West Fargo Public School District #6 (ND) (CBS)
+C056493,363129,Susan Mitchell,13446,Susan Mitchell
+C008293:3,1032054,Wolfe County BOE (KY) : Red River Valley Elementary (KY),38575,Wolfe County BOE (KY) - CBS
+C070178,968704,Jeanie Battaglia,43317,Jeanie Battaglia
+C070199,968742,Hilda Martinez,43331,Hilda Martinez
+C061001,736235,Carol Smith (Maine),36808,Maine School Admin District 41 (ME)
+C070304,968924,Arts and Letters 305 United,37188,NYC Dept of Ed - CBS!
+C009468:2,1033028,Hartland Consolidated Schools (MI) : Lakes Elementary (MI),43365,Sherry Osterhoff
+C002392,27044,Jackson Local SD (OH),35369,Jackson Local School District
+C012238,12135,Jennifer Brumley,43369,Jennifer Brumley
+C017527:16,1032747,Pinellas CS (FL) : Bay Point Elem (FL),37383,Pinellas County Schools - CBS
+C070338,968999,Amber Bechtel,43378,Amber Bechtel
+C070635,969678,Frankfort-Elberta Area Schools (MI),43547,Frankfort-Elberta Area Schools
+C070378,969187,Angela Stetler-Caragher,43388,Angela Stetler-Caragher
+C003246,27087,Mesa County Valley SD #51 (CO),43399,Mesa County Valley School District #51 (CO)
+C060492,710702,Christina Moore,43407,Christina Moore
+C065141,958176,Rachel Rose,43418,Rachel Rose
+C008746,17109,Cheryl Mazzoli,43422,Cheryl Mazzoli
+C070243,968834,Wilma Kooistra,43416,Cornerstone Christian School (CAN)- International
+C070758,969907,Shiloh Christian School - Pinnacle Hills,43420,Shiloh Elementary School
+C070456,969335,Sophie Schleis,41934,School District of Holmen
+C012459:1,1033479,Rochester CS (MI) : Baldwin Elem (MI),37307,Rochester Community Schools
+C057652,439625,Beth Allo,43437,Beth Allo
+C064748,957370,Renee Roffers,43453,Renee Roffers
+C070427,969277,Lewis County Board of Education (TN),43501,Lewis County Board of Education (TN)
+C020209:11,1033019,Wheaton CSD 200 (IL) : Madison Elementary  (IL),33211,CUSD #200 - Wheaton IL
+C070530,969476,Jen Bindus,36705,Aurora City Schools
+C065297,958599,Amy Sung,43458,Amy Sung
+C057994,462647,Sandy Reckles,43478,Sandy Reckles
+C070600,969596,Jami Champeon,38284,RSU 68/MSAD 68 (ME)
+C070564,969527,Mary Kay Kaczmarek,43497,Mary Kay Kaczmarek
+C054733,225338,Marie Reed Elementary School (DC Public Schools),33910,DCPS (DC Public Schools)
+C009827,32457,Emily Garrett,43520,Emily Garrett
+C051656,62320,Hampstead Elementary School (Carroll County),37724,Carroll County Public Schools
+C025345:8,1002754,Spartanburg CSD 5 (SC) : Beech Springs Intmdt (SC),36618,Spartanburg County School District #5 (CBS)
+C002216,21933,Holley Central School (NY),44132,Holley Central School (NY)
+C012783,6976,Wharton Board of Ed,36369,Wharton Borough School District (NJ)
+C059301,583798,Moira Perry,37911,Ellsworth Schools
+C058292,481107,Little Ambassadors' Academy,37372,Little Ambassadors' Academy
+C067458,962760,Chinook SD No 211 (CAN),43558,Chinook School Division No 211 (CAN) - International
+C055998,331119,Rhonda Young,43679,Rhonda Young
+C055126,252039,Heather Fallen,36552,Shelby County Public Schools (KY) (CBS!!!)
+C036057,4712,Lindsey Edens,47041,Lindsey Edens
+C039466,5168,Jill Davidson,36466,Charleston Cmty Unit SD 1 (IL)
+C063844,930601,Beth Chatnik,43590,Beth Chatnik
+C017530,12825,Middleburgh CSD (NY),41510,Middleburgh CSD
+C070862,970120,Tracy Scaccia,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C000159,26939,Arcata SD (CA),43597,Arcata School District
+C070851,970092,Sandra Anton,38070,Madison Metropolitan
+C070878,970145,Gaberielle Miller,43604,Gaberielle Miller
+C070988,970354,All the Write Colors,43635,All the Write Colors
+C070921,970215,Lisa Lamb,37307,Rochester Community Schools
+C020209:9,1033017,Wheaton CSD 200 (IL) : Sandburg Elementary (IL),33211,CUSD #200 - Wheaton IL
+C006987,6610,Wayne - Finger Lakes BOCES,167,York CSD
+C070961,970319,Jennifer Brennan-Brooks,37188,NYC Dept of Ed - CBS!
+C071007,970396,Yvonne Rodgers,43657,Yvonne Rodgers
+C050375,38305,Debi Osbourne,43665,Deb Osbourne
+C000980:10,1031149,Columbia PS (MO) : Blue Ridge Elementary (MO),37744,Columbia Public Schools (MO)
+C071024,970416,Rachel Rosenberg,43671,Rachel Rosenberg
+C054409,201239,Mary Turner,43683,Mary Turner
+C003166,11674,Maryann McBride,36059,Clemson University - Maryann McBride
+C071279,970996,Montclair Kimberley Academy,46418,Montclair Kimberley Academy
+C063524,903433,Linda Gitman,43717,Linda Gitman
+C071113,970623,Stephanie Bearkland,43727,Stephanie Carle
+C042531,36133,Amanda Vander Wall,43751,Amanda VanderWall
+C055988,330514,Kristin Reale,43764,Kristin Reale
+C052826,138308,Sharon Greaney,4572,Sharon Greaney
+C039536,5178,Mary Bower,36466,Charleston Cmty Unit SD 1 (IL)
+C070396,969222,The Fayette Education Foundation dba Blue Grass Community Foundation,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C071219,970868,Deborah Foulk Libby,43773,Deborah Foulk Libby
+C065112,958102,Sarah Estes,37081,Oxford Hills School District (MSAD 17- ME)
+C046289,31597,Gwendolyn Bastedo,43804,Gwendolyn Bastedo
+C048685,6209,Branch Intermediate School District,36870,Coldwater Community Schools (MI)
+C071327,971105,Phyllis Artis,43817,Phyllis Artis
+C007483,1554,Lovejoy ISD (TX),43753,Lovejoy ISD (TX)
+C004137:6,1035160,Randolph County Schools (NC) : Southmont Elem (NC),36892,Randolph County Board of Education (NC) - CBS
+C071411,971305,Johanna Zayed,37724,Carroll County Public Schools
+C053015,145822,Kristin Stout,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C071610,971827,Heather Hatch,37081,Oxford Hills School District (MSAD 17- ME)
+C022890,3265,Michelle Russell,33383,Michelle Russell
+C071489,971471,Naema Shalash,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C037298,15171,Harris County SD (GA),43898,Harris County School District (GA)
+C070354,969035,Green Bay Area Public School District (WI) - P-Cards,36732,Green Bay Area Public School District (WI)
+C071478,971454,Monmouth Memorial School,43257,Regional School Unit #2
+C071556,971706,Kristen Harrington-Vibas,43913,Kristen Harrington-Vibas
+C001732,16807,Freeport SD #145 (IL),43983,Freeport School Dist #145
+C011340,1754,MSAD #30 (ME),43920,MSAD#30
+C071633,971881,Amy Boyd,43932,Amy Boyd
+C071687,971963,Courageous Readers,43028,La'Juana McNeil
+C071669,971937,Caroline Nathans,37667,Caroline Nathans
+C071696,971984,Brittany Peters,43949,Brittany Peters
+C071713,972003,Stephanie Knight,43958,Stephanie Knight
+C056093,335850,Sue Polter,43972,Sue Polter
+C071768,972109,Tracy Dawson,43980,Tracy Dawson
+C053122,149447,Kimberly Noreikis,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C062470,833672,Brittany Kaylor,37451,Madison County Board of Education (KY) CBS
+C071827,972230,Cyndthia Finley,43999,Cyndthia Finley
+C071856,972326,Izamary Rios,44007,Izamary Rios
+C064862,957591,Grace Craig,44008,Grace Craig
+C060544,713229,Elisabeth Berry,38249,Sun Prairie Area School District (WI) (CBS!!)
+C071904,972416,Louann Larsen,44031,Louann Larsen
+C071928,972462,Daniel Bolea,44035,Daniel Bolea
+C054111,187846,Victoria Balducci,44053,Victoria Balducci
+C048788,31943,Phi Nguyen,44063,Amy Phi Nguyen
+C072048,972842,Erin Konz,44075,Narrow Gate Learning
+C018409,33406,Cynthia Bourgelas,44076,Cynthia Bourgelas
+C062650,843497,Miriam Giskin,39602,Miriam Giskin
+C001838,21919,Glastonbury BOE (CT),44089,Glastonbury Board of Education
+C072026,972790,St. Clair Schools,45990,St. Clair Schools
+C072103,972935,Jennifer Schramm,44088,Jennifer Schramm
+C072272,973354,Kailie Balcom,44153,Paris Elementary School
+C067564,962940,Diana Guzman-Morgado,44090,DIANA GUZMAN-MORGADO
+C072148,973051,Michelle Reynolds,43940,Michelle Reynolds
+C054576,213870,Alexandria Tutoring Consortium,44111,Lisa Jacobs
+C072181,973109,Katherine Jurasin,44113,Katherine Jurasin
+C072187,973116,Susan Eagan,44118,Susan Eagan
+C072236,973205,Sydney Townsel,44060,Townsel
+C072251,973265,Amanda Varney,37451,Madison County Board of Education (KY) CBS
+C072302,973420,Sarah Crowell,44148,Michigan Great Lakes Virtual Academy
+C019519,18284,Lamar Educational Awards Foundation,37330,Lamar Consolidated ISD
+C072259,973320,Trinity Lutheran Church and School,44599,Trinity Lutheran Church and School (IL)
+C002899,6452,Logan Hocking LSD (OH),44178,Logan Hocking Local School District (OH)
+C048394,21674,Kristina Reyerson,44173,Kristi Reyerson
+C071840,972249,Biddle Elementary School,44176,Biddle Elementary School
+C054396,201227,Lauren Cash,37049,Birmingham Public Schools
+C072435,973791,Lisa Hyde,43273,Lisa Hyde
+C072437,973793,Nataliya Kvint,44204,Nataliya Kvint
+C064229,955863,Fresno USD (CA),44458,Fresno Unified School District (CA)
+C029118,29676,William Feerick,37188,NYC Dept of Ed - CBS!
+C072639,974219,Megan Gmerek,37587,Aiken County Public School District (SC)
+C072811,974548,Cimarron Elementary School,37431,Jamie Neely
+C072674,974286,Jenna Ortmeier,44407,Jenna Ortmeier
+C005521,27201,Wilson SD (PA),44300,Wilson School District (PA)
+C024575,29201,Joan Molee,32853,Kinnelon Board of Education (NJ)
+C011399,17254,Hartland Lakeside School District (WI),25360,St. Charles Parish School (WI)
+C072944,974736,Michael Marincic,38249,Sun Prairie Area School District (WI) (CBS!!)
+C053450,162389,Elise Sivcovich,4247,Elise Sivcovich
+C072822,974564,Lauren Horgan,44354,Lauren Horgan
+C015172,17684,Nick Dufresne,44371,Owen Myers
+C002220:2,1035891,Holly Area Schools (MI) : Patterson Elem (MI),36727,Holly Area Schools
+C000996,11579,Crystal Lake SD 47 (IL),3261,Crystal Lake Cmty Sch Dist 47
+C029187,24603,Carissa Wilson,44401,Carissa Wilson
+C072953,974746,Kaisa DuMond,44405,Kaisa DuMond
+C059096,561097,Leanne Cooper,44408,Leanne Cooper
+C044766,10749,Jodi Siglin,37201,Jodi Siglin
+C069481,967149,Shannon Martin,43054,Shannon Martin
+C073000,974807,Leslie Kelson-probert,44434,Leslie Kelson-Probert
+C073015,974828,Jaime Gilman,37081,Oxford Hills School District (MSAD 17- ME)
+C073018,974831,Lora Hulbert,44441,Lora Hulbert
+C056504,364030,Cheryl Yeates,34856,Cheryl Yeates
+C057875,454688,Rayna Weiner,36905,Columbus Tutoring Services
+C073051,974889,Elizabeth Hillerich,44460,Elizabeth Hillerich
+C032764,24886,Creative Montessori Academy (MI),44478,Creative Montessori Academy
+C073068,974920,Cassie Hagen,44473,Cassie Hagen
+C056061,334248,Suzanne Tooley,32422,Suzanne Tooley
+C055921,326991,Mary Beth Henze,32024,Mary Beth Henze
+C073120,975005,Mindy Smith,44113,Katherine Jurasin
+C073122,975007,Margaret Kraemer,44454,Margaret Kraemer
+C045633,5785,Mary Richardson,36721,Mary Richardson 
+C066722,961351,Alice Wong Tucker,49341,Alice Wong Tucker
+C073134,975052,Yough School District,44505,Yough School District
+C073171,975219,Amy Peterson,44472,Amy Peterson
+C073185,975237,Phyllis Barnes,44516,Phyllis Barnes
+C008101,11888,Maine School Admin District 31,36808,Maine School Admin District 41 (ME)
+C073131,975046,Rural Virtual Academy (WI),44553,Medford Area Public School District (WI)
+C008107,6670,Great Neck PS (NY),44225,Great Neck Public Schools (NY) - CBS
+C073369,975519,Jana Zindell,44556,Ubuntu School
+C005581,11787,Wooster City SD (OH),44557,Wooster City School District
+C073370,975521,Samantha R Weintraub,44556,Ubuntu School
+C013409,22589,Kelly Leahey,36812,Arlington Public Schools - Capped By Schools
+C044577,10722,Turner Elementary (DC),33910,DCPS (DC Public Schools)
+C021282,13341,Janine Conway,36905,Columbus Tutoring Services
+C041618,20742,Leighton Elementary School,36705,Aurora City Schools
+C073427,975606,Tara Carr,44592,Marsha Harp
+C072941,974724,Slater Marietta Elementary,36022,School District of Greenville County (CBS!!)
+C073486,975690,Amanda Avila,44516,Phyllis Barnes
+C037702,4929,Devon Mitchell,44608,Devon Mitchell
+C019154,13047,Rebecca Swift,44611,Rebecca Swift
+C060530,712824,Amanda Godbey,36599,Boyle County Schools (KY)
+C045911,31543,Melinda Little,47540,Melinda Little
+C073544,975794,Mary Tammaro,44633,Mary Tammaro
+C020015,13165,Debbie Hill,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C073570,975836,Margaret LaForce,44629,Margaret La Force
+C020662,28650,Christine Young,44630,Christine Young
+C061813,793283,Kristin Pfeiffer,44632,Kristin Pfeiffer
+C073601,975889,Jennifer Jamison,36357,Jefferson County Public Schools (KY)
+C073604,975892,Madison Lott,41799,North Kansas City Schools (MO)
+C073608,975898,Sarah Shade,44654,Sarah Shade
+C038197,30713,Faith Leonard,44660,Faith Leonard
+C012791,12206,Shari Butcher,44664,Shari Butcher
+C037003,9913,St. Charles Parish School (WI),25360,St. Charles Parish School (WI)
+C073632,975938,Shelby Rich,46904,Shelby Rich
+C065512,959118,April Bradley,43348,April Bradley
+C073648,975966,Andrew Martinez,40398,Hanford Elementary SD (CA)
+C066426,960864,Annie Shaw,41967,Annie Shaw
+C073595,975870,Read With Me Inc (TX),32410,Read With Me Inc
+C073693,976036,Karen Athman,5361,Annandale School District #876 (MN)
+C073694,976037,Joy Koller,44683,Joy Koller
+C073695,976038,Mallory Staggs,44685,Mallory Staggs
+C073705,976059,Lucas Koomans,43416,Cornerstone Christian School (CAN)- International
+C012909,6992,Valerie Persky,43360,Valerie Persky
+C073749,976137,Griffyn Boyd,44700,Griffyn Boyd
+C031069,19532,Forest Hills PS (MI),47238,Forest Hills Public Schools (MI)
+C073696,976045,Sherry Osterhoff,43365,Sherry Osterhoff
+C073763,976153,Brittany Downey,44708,Brittany Downey
+C072129,972994,Rachel Isch,44733,Kingdom Academy - Rachel Isch
+C073774,976171,Cheryl Howard,43817,Phyllis Artis
+C062975,862371,Teresa Prus,44752,Theisen Middle School
+C054391,201222,Angela Graham,36814,Owosso Public Schools (MI)
+C064569,956832,Erica Hennigh,44729,"West Texas Elementary, PSPCISD"
+C073898,976314,Plemons-Stinnett-Phillips CISD,44729,"West Texas Elementary, PSPCISD"
+C056035,333235,Mary Clare Moller,32498,Mary Moller
+C055889,323378,Deonna Montei,44750,Deonna Montei
+C073861,976272,Alicia Eaton,42188,Davison Community Schools
+C073891,976303,Lori Bouldin,43449,Logan County BOE
+C073897,976313,Sandra Sanzo,1035,Mamaroneck Union Free School District (NY)
+C046678,16227,Michelle Young,43420,Shiloh Elementary School
+C005107:9,1024914,Troy SD (MI) : Hamilton Elementary (MI),32166,Troy School District (MI)
+C010907,6808,Zanesville City BOE (OH),44774,Zanesville City Board of Ed (OH)
+C073962,976405,Rebecca Zaleski,37307,Rochester Community Schools
+C039041,15407,Juleigh Severin,44805,Juleigh Severin
+C000153:5,1032493,Appleton Area SD (WI) : Houdini School (WI),37033,Appleton Area School District (WI)
+C032590:4,1032857,SD of Manatee County (FL) : Ballard Elem (FL),5101,School District of Manatee County (FL)
+C052042,82661,Sara Torgusson,44975,Sara Torgusson
+C074195,976737,Erin Schnell,36861,West Fargo Public School District #6 (ND) (CBS)
+C016315,28047,Deckerville CS (MI),45506,Deckerville Community Schools
+C009468,22262,Hartland Consolidated Schools (MI),45247,Hartland Consolidated Schools (MI)
+C043331,10548,Tara Bosley,43598,Tara Bosley
+C045673,31511,Muskogee PS (OK),45293,Muskogee Public Schools (OK)
+C064888,957629,Deborah Clark,44869,Deborah Clark
+C016113,33093,Kris Harris,41831,Kris Harris
+C035066,20077,Michele Kirkwood,37049,Birmingham Public Schools
+C074253,976838,Jessica Higgins,44893,Jessica Higgins
+C064509,956686,Community Christian School of Western NE,46378,Community Christian School
+C074254,976839,Olga Ingle,45311,Olga Ingle
+C074252,976837,Panther Run Elementary,38802,School District of Palm Beach County (FL)
+C056198,345480,Pam Frerichs,32619,Pam Frerichs
+C074284,976885,Jessica Cook,48578,Jessica Cook
+C057890,456801,Margaret Sonley,46745,Margaret sonley
+C074319,976951,Holly Hansen,45225,Holly Hansen
+C037840,30664,Sino-Commercial Trading Ltd.,45510,ISA Wenhua Liwan School of Guangzhou - International
+C074337,976987,Alexandra Bartz,45277,Alex Bartz
+C053476,163384,Jamie Paige,47652,Jamie Paige
+C074333,976979,SD of Bayfield (WI),47358,School District of Bayfield (WI)
+C074387,977082,Christy Kian,45413,Christy Kian
+C053501,163989,Jen Barrett,45432,Jen Barrett
+C064349,956199,Honette Rivers,45460,Honette Rivers
+C071240,970892,Morgan Biven,36552,Shelby County Public Schools (KY) (CBS!!!)
+C074457,977246,Stephanie Farpelha,45469,Stephanie Farpelha
+C056308,352535,Kristine Tolman,45374,Kristine Tolman
+C074469,977274,Libby Curran,42256,Libby Curran
+C074475,977283,Maddie McCulley,45385,Maddie McCulley
+C074548,977443,Monica Proctor,23452,Catherine Proctor (Anguilla) - International
+C068494,964846,Maine SAD #44 (ME),46296,Maine School Administrative District #44 (RSU 44/MSAD 44)
+C072838,974581,Plainfield School District (NH),45565,Plainfield School District (NH)
+C069627,967447,Spring Lake Public Schools (MI),45601,Spring Lake Public Schools (MI)
+C068290,964391,South Shore Charter School (NY),45609,South Shore Charter School (NY)
+C036753,20308,Pelham Road Elementary (SC),36022,School District of Greenville County (CBS!!)
+C000316,6344,Beaufort CSD (SC),37181,Beaufort County School District - SC
+C060560,714043,Katie Keier,45708,Katie Keier
+C067735,963285,Carol Sebesta,42484,Carol Sebesta
+C074790,978020,Province Ludwig,45823,Province Ludwig
+C070244,968835,Cornerstone Christian School (CAN),43416,Cornerstone Christian School (CAN)- International
+C074883,978303,Linda Vanore,45906,Linda Vanore
+C074886,978306,Ashley Nicholson,45937,Ashley Nicholson
+C074923,978394,Rachael Gerhard,45963,Rachael Gerhard
+C000053,21833,Albany City SD (NY),46272,Albany City School District (NY)
+C074979,978586,Kelsie London,45997,Kelsie London
+C060718,723094,Mary Kope,45687,Sandy Kope
+C006850,22115,Fort Wayne Community Schools (IN),46350,Most Precious Blood Catholic School
+C075040,978706,Julie Myers,45941,Julie Myers
+C010864,1725,Hillsborough County PS (FL),46811,Hillsborough County Public Schools (FL)
+C075036,978677,Hamilton School District R2,46737,Hamilton School District R2
+C075124,978980,Christine Luis,46130,Christine Luis
+C075126,978984,Adeline Ritter,46024,Adeline Ritter
+C075168,979114,Ben Bency,46051,Ben Bency
+C075137,979033,Paris Foster,336,Lois Ruckert
+C070353,969029,Naomi Snyder,46067,Naomi Snyder
+C069627:1,1033983,Spring Lake Public Schools (MI) : Holmes Elem (MI),45601,Spring Lake Public Schools (MI)
+C070959,970316,Spring Garden Elementary School,37724,Carroll County Public Schools
+C066037,960190,April Gregory,46175,April Gregory
+C075220,979217,Anne Harkema Penn,44148,Michigan Great Lakes Virtual Academy
+C009242,11940,JKL Bahweting Anishnabe PSA (MI),46301,Bahweting Anishnabe PSA
+C019065,23344,Hempfield Area SD (PA),45929,Hempfield Area School District
+C075201,979179,Carrie Barnett,46093,Carrie Barnett
+C025824:15,1032456,Sarasota County Schools (FL) : Dreamers Academy (FL),46900,Dreamers Academy (FL)
+C075218,979211,Olivia Resnick,46230,Olivia Resnick
+C050523,38661,Yolanda Sawyer,46235,Yolanda Sawyer
+C020683,28653,Rebecca Ballantine,46246,Rebecca Ballantine
+C075237,979312,Elizabeth Wargula,46200,Elizabeth Wargula
+C075234,979309,Rahma Pathan,46262,Rahma Pathan
+C051142,50514,Devils Lake PS (ND),46270,Devils Lake Public Schools (ND)
+C058365,486828,Lauren McGill,507,Spartanburg County District I Schools (SC) (CBS)
+C075268,979514,Korina Gibson,46295,Korina Gibson
+C075271,979533,Jennifer Locke,46300,Jennifer Locke
+C075121,978976,Carolus Online Academy,46340,Carolus Online Academy
+C022733,23858,John Cooper School (TX),46333,John Cooper School (TX)
+C075071,978773,Edgar County CUSD #6 (IL),46326,Edgar County CUSD #6 (IL)
+C019114,23351,DC Public Education Fund,33910,DCPS (DC Public Schools)
+C062186,817083,Desiree Baroody,46342,Desiree Baroody
+C008265,27306,Clemson Elementary School (SC),43999,Cyndthia Finley
+C060514,711703,The Roeper School (MI),46361,The Roeper School
+C050808,40459,Avondale Elementary SD #44 (AZ),46354,West Valley School District
+C004837,1442,St. Johns County SD (FL),46540,St. Johns County School District (FL)
+C075335,979717,Krystal Wisdom,46251,Krystal Wisdom
+C075344,979735,Morgan House,46369,Morgan House
+C075355,979761,Eric LaForce,46386,Eric LaForce
+C068539,964959,Colleen Rahal,46393,Colleen Rahal
+C018912,28404,School District of Belleville (WI),46400,School District of Belleville
+C075365,979789,Christopher Potter,46267,Chris Potter
+C075368,979794,Christina Sheriff,49576,Christina Sheriff
+C075374,979805,Toshia McCarter,45896,Toshia McCarter
+C070527,969472,Sara Zapalowski,46436,Sara Zapalowski
+C058013,463261,Judy Gunkelman,46450,Judy Gunkelman
+C073247,975315,Wilmore Elementary,37866,Jessamine County Schools
+C016918,33204,Trinity Christian Acad (TX),46449,Trinity Christian Academy (TX)
+C075398,979870,Krystal Winsor,46456,Krystal Winsor
+C062432,831048,Katie Hill,46353,Katie Hill
+C075417,979923,Sierrah Heugly,46482,Sierrah Heugly
+C032590:2,1030602,SD of Manatee County (FL) : Williams Elem (FL),5101,School District of Manatee County (FL)
+C006999,32311,Garner-Hayfield-Ventura Community Schools (IA),46505,Garner-Hayfield-Ventura Community Schools (IA)
+C075413,979909,Foundation For Excellence (MI),367,Walled Lake CSD
+C075305,979641,Alconbury Elem,46518,Alconbury Elementary (DoDEA Europe West) - International
+C022517,28914,Dryden Community Schools,46555,Dryden Community Schools
+C075428,979976,Lorey Beard,46498,Lorey Beard
+C000111,32034,Anderson County BOE (KY),46542,Anderson County Board of Education (KY)
+C075362,979781,Flint Cultural Center Acad (MI),46725,Flint Cultural Center Academy
+C075449,980053,Melissa Elkus,46534,Melissa Elkus
+C070444,969316,Burnet CISD (TX),46546,Burnet CISD (TX)
+C018493,33417,Hartsburg Emden CUSD 21 (IL),48222,McLean County Unit District No. 5 (IL)
+C001321,26992,Douglas County SD RE 1 (CO),46410,Douglas County School District RE 1 (CO)
+C051682,63319,Laura Guijarro,46573,Laura Guijarro
+C075475,980095,Catherine Cronin,46571,Catherine Cronin
+C075480,980116,Quinshaunna Ingram-Downing,46589,Quinshaunna Ingram-Downing
+C075482,980118,Kristen McNair,36357,Jefferson County Public Schools (KY)
+C015425:1,1030337,Coldwater CS (MI) : Max Larsen Elem (MI),36870,Coldwater Community Schools (MI)
+C015111,27892,Krystle Gascoigne,46488,Krystle Gascoigne
+C075491,980141,Sean Jordan,46599,Sean Jordan
+C075504,980178,Dana Warmbold,33211,CUSD #200 - Wheaton IL
+C065993,960118,Tri Valley CUSD #3 (IL),46612,Tri Valley CUSD #3 (IL)
+C029172,19473,Indian Rocks Christian School (FL),47408,Indian Rocks Christian School (FL)
+C001091,32080,Crestwood SD  (MI),47527,Crestwood School District
+C068995,966036,Sanampreet Gill,46357,Sanampreet Gill
+C074273,976863,Kala Ramsey,46467,Kala Ramsey
+C005081:11,983957,Torrance USD (CA) : Walteria Elementary School (CA),35744,Torrance Unified School District
+C069028,966108,Lauren Haro,35744,Torrance Unified School District
+C075553,980308,Nicanor Halili,35744,Torrance Unified School District
+C075558,980313,Ashlyn Christensen,46664,Ashlyn Christensen
+C075559,980314,Bonnie Covington,46665,Bonnie Covington
+C075548,980302,Emma Garris,46669,Emma Garris
+C075547,980301,Kim Galbraith,46670,Kim Galbraith
+C060458,708182,Katrina Weinmann,46676,Katrina Weinmann
+C075562,980322,Kathy Schmitt,46685,Kathy Schmitt
+C024536,8561,Howard-Suamico SD (WI),43453,Renee Roffers
+C075573,980365,Katherine Nelson,46693,Katherine Nelson
+C075525,980246,St. Ignatius School (ID),46709,St. Ignatius School (ID)
+C032100,29885,Jenny Miller,46189,jenny miller
+C055966,330109,Leslie Gloyne,46720,Leslie Gloyne
+C075588,980389,Sharon Lokowich,46721,Sharon Lokowich
+C069069,966205,Taryn Stanley,46627,Taryn Stanley
+C056476,361719,Myrna Michaelsen,46729,Myrna Michaelsen
+C075599,980422,Patty Flaherty,46732,Patty Flaherty
+C075604,980443,Sarah Norsworthy,46739,Sarah Norsworthy
+C069322,966809,Sujin Argel,46749,Sujin Argel
+C058398,489360,Kayla Parks,46748,Kayla Parks
+C035102,25205,St. Mary's Catholic School (NE),46804,St. Mary's Catholic School
+C063055,868637,Kaitlyn Anderson,46776,Kaitlyn Anderson
+C075620,980488,Wilmeth Elementary PTO (TX),46795,Wilmeth Elementary
+C075610,980463,Saint Mary Star of the Sea School (VA),46969,Saint Mary Star of the Sea School (VA)
+C075645,980592,Kathy Murray,46822,Kathy Murray
+C075654,980609,Eileen Bee,46744,Eileen Bee
+C013151,27650,Blue Hill Consolidated School (ME),46840,Blue Hill Consolidated School (ME)
+C067875,963546,Dana Cosper,46723,Dana Cosper
+C007791,1575,Martha's Vineyard PS (MA),46850,Martha's Vineyard Public Schools (MA)
+C071102,970599,Lisa Kassov,46443,Lisa Kassov
+C048879,31956,Christina Astrove,46849,Christina Astrove
+C075670,980659,Elizabeth Bentley,46793,Liz Bentley
+C075683,980692,Sarah Ben-Asher,46865,Sarah Ben-Asher
+C008063,32368,Osage Community Schools (IA),46876,Osage Community Schools (IA)
+C075686,980697,Eugenia Gallegos,46618,Eugenia Gallegos
+C075647,980595,Spruce Mountain Regional School Unit #73 (ME),47424,Spruce Mountain Regional School Unit #73 (ME)
+C053713,171340,Parish Episcopal School,46910,Parish Episcopal School
+C075745,980835,Elizabeth Keblusek,46797,Elizabeth Keblusek
+C075753,980847,Kim Chen,46875,Kim Chen
+C075767,980879,Brian Wanyoike,46933,Brian Wanyoike
+C004031,32195,Portland SD (CT),44633,Mary Tammaro
+C056291,350832,Cynthia Keller,43552,Cynthia Keller
+C075804,980969,Lisa Cyrus,46700,Lisa Marie Cyrus
+C075813,980983,Sherri Wilson,46934,Sherri Wilson
+C075798,980955,Augustus Tolton Catholic Academy (IL),47603,Augustus Tolton Catholic Academy (IL)
+C075780,980904,Linda Mann,46927,Linda Mann
+C052386,113035,Ivette Obagi-Tapia,46966,Ivette Obagi-Tapia
+C005439,1479,Westwood PS (MA),46967,Westwood Public Schools (MA)
+C075987,981328,Woodlawn Elementary School PTO (KY),36599,Boyle County Schools (KY)
+C016965,23053,Yankton School District 63-3,46978,Yankton School District 63-3
+C075858,981074,Sally Smith,47007,Sally Smith
+C060809,727324,Amy Tyner,47010,Amy Tyner
+C033367,30060,Upper Township BOE (NJ),47026,Upper Township Board of Education
+C075866,981083,Julie Stewart,47012,Julie Stewart
+C075871,981098,Stephanie Storts,46710,Stephanie Storts
+C024540,29196,Diane Stevens,47224,Homeschool
+C075841,981038,San Jose Episcopal Day School (FL),47748,San Jose Episcopal Day School (FL)
+C075885,981138,Valerie Goodall,46956,Valerie Goodall
+C075887,981141,Ellen Kelter,47045,Ellen Kelter
+C075886,981140,Nicole Foley,46941,Nicole Foley
+C063856,931609,Southwestern WI Community School District (WI),47103,Southwestern WI Community School District (WI)
+C075983,981321,Grace Lutheran School (WI),43367,Cooperative Educational Service Agency (CESA) #6
+C072196,973138,Kelly Tabak,47073,Kelly Tabak
+C067530,962884,Norma Jones,47075,Norma Jones
+C071968,972613,Courtney Grim,47083,Courtney Grim
+C059832,640451,Diana Norseen,43680,Diana Norseen
+C075920,981204,Cheryl Boreman,44685,Mallory Staggs
+C022539,33980,Mardi Boin,46971,Mardi Boin
+C065993:1,1034415,Tri Valley CUSD #3 (IL) : Tri-Valley Elem (IL),46612,Tri Valley CUSD #3 (IL)
+C062190,817283,Ann Marie Eckerson,47110,Ann Marie Eckerson
+C075937,981237,Theresa Adams,47115,Theresa Adams
+C064721,957328,Nancy Liu,47117,Nancy Liu
+C075944,981247,Sherri Bonner,47135,Sherri Bonner
+C076032,981404,Countryside Christian Academy (FL),47167,Countryside Christian
+C070432,969287,Bonnie Bucci,47130,Bonnie Bucci
+C075939,981241,Medford Area Public School District (WI),44553,Medford Area Public School District (WI)
+C075945,981249,Courtney Gonzalez,47014,Courtney Gonzalez
+C075955,981263,Annie Jenkins,39733,Rock Hill School District ((CBS!!))
+C021099,8084,Natalia Johns,47138,Natalia Johns
+C067101,962095,Andrea Searcy,47148,Andrea Searcy
+C075966,981286,Emily Robbins,47040,Emily Sweeny
+C069877,968065,AOS 98 (ME),47231,AOS 98 (ME)
+C004381,32213,Salem CSD (NY),47517,Salem Central School District (NY)
+C026172,34484,Amy Wehner,41928,Amy Wehner
+C052912,141243,Jill Frost,44706,Jill Frost
+C068878,965788,Tulare City SD (CA),47293,Tulare City School District (CA)
+C070339,969000,Next Generation School,44728,David Kinkead
+C076009,981370,Claire Cummings,47193,Claire Cummings
+C076013,981375,Rani Sloan,44592,Marsha Harp
+C076024,981393,Joana De La Rosa,47220,Joana DeLaRosa
+C076462,983608,Andover Public Schools (KS),47229,Amy Elliott
+C076030,981400,Kristi Miller,36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C075929,981218,Camden-Frontier Schools (MI),47243,Camden-Frontier Schools (MI)
+C076037,981414,Tricia Stuck,47071,Tricia Stuck
+C076047,981441,Rhonda Santoyo,47054,Rhonda Santoyo
+C073538,975788,Lisa Tomek,33211,CUSD #200 - Wheaton IL
+C074246,976822,Jennifer Nichols,47445,Jennifer Nichols
+C076065,981478,Jill Rogers,47300,Jill Rogers
+C032151,4179,Elizabeth Potter,44926,Elizabeth Potter
+C063530,903439,Molly Watkins,47098,Molly Watkins
+C046221,5869,Esther DeLuca,47325,Esther DeLuca
+C051620,61079,John Hoffman,47315,John Hoffman
+C056075,335050,Joan Spatz,47216,joan spatz
+C076099,981531,Loretta Haley,47333,Loretta Haley
+C076100,981532,Jill Talmon,47337,Jill Talmon
+C027205:1,1036219,Detroit Country Day School (MI) : Detroit County Day Lower School (MI),37770,Detroit Country Day School (Lower School) (MI)
+C066836,961624,Nancy Whitman,47347,Nancy Whitman
+C076107,981554,Elizabeth Snyder,47348,Elizabeth Snyder
+C058492,495414,Carlisle Public School (MA),47514,Carlisle Public School (MA)
+C076114,981561,Traci Ard,47174,Traci Ard
+C076116,981570,Elecia Lixey,47356,Elecia Lixey
+C065833,959859,Sheryl Kippel,47086,Sheryl Kippel
+C076119,981573,Jenna Cherry,47355,Jenna Cherry
+C007209,32326,Maine School Admin District #4,47360,Maine School Admin District #4
+C076151,981617,Courtney Baccus,46897,Courtney Baccus
+C058143,472700,Brittany Brown,47376,Brittany Brown
+C002220:4,1035893,Holly Area Schools (MI) : Holly Elem (MI),36727,Holly Area Schools
+C019439,2778,Graham Local SD (OH),47407,Graham Local Schools
+C059649,621870,Emma Tarkowski,47411,Emma Tarkowski
+C075898,981164,Grace School District #148 (ID),47435,Grace School District #148 (ID)
+C076183,981728,Gena Corbett,47204,Gena Corbitt
+C076185,981731,Martha Velasco,47426,Martha Velasco
+C056987,400834,Zaneta Chambers,47254,Zaneta Chambers
+C076192,981761,Corissa Trani,37188,NYC Dept of Ed - CBS!
+C076194,981763,Anne Brainard,47054,Rhonda Santoyo
+C076196,981765,Tresa Johnson,47283,Tresa Johnson
+C076203,981772,Kerry Vanairsdale,47463,Redford Union School District
+C074088,976590,South River School District (NJ),47449,South River School District (NJ)
+C076215,981787,Genevieve Lowe,37188,NYC Dept of Ed - CBS!
+C011227,32519,Southern Boone Co R-I (MO),47506,Southern Boone Co R-I (MO)
+C016969,7507,Oakland Schools (MI),32166,Troy School District (MI)
+C076219,981792,Tiffany Mitchell,47242,Tiffany Mitchell
+C066008,960148,Tracy Viox,47395,Tracy Viox
+C076226,982103,Amy Waters,46888,Amy Waters
+C027043,14142,Elaine Carter,47470,Barbara Elaine Carter
+C076232,982116,Devon Weiler,47127,Devon Weiler
+C006871,22117,Orleans/Niagra BOCES (NY),47370,Sabrina London
+C001594,27002,Farmington PS (CT),47676,Farmington Public Schools (CT)
+C076252,982225,Red Bank Charter School (NJ),47821,Red Bank Charter School (NJ)
+C076274,982262,Brooke Michaels,47504,Brooke Michaels
+C060420,704280,Kiera Arnold,47512,Kiera Arnold
+C076282,982290,Emily Daube,47268,Emily Daube
+C076285,982294,Leslie Williams,47269,Leslie Williams
+C066006,960143,Lindsay Stone,47533,Lindsay Stone
+C076301,982733,The Harker School - Lower School Campus (CA),47774,The Harker School - Lower School Campus (CA)
+C021998,23757,Ithaca Public Schools,47604,Ithaca Public Schools (MI)
+C020415,18410,Amy Sippert,47558,Amy Sippert
+C063949,941552,Terri Kessler,47566,Terri Kessler
+C063051,868337,Donna Sheynfeld,47253,Donna Sheynfeld
+C076317,982761,Lois Huver,47574,Lois Huver
+C048918,16539,Cortney Brendel,58,Grand Blanc Community Schools (CBS!!!)
+C010902:6,1035915,Campbell County SD No 1 (WY) : Wagonwheel Elem (WY),32260,Campbell County School District 1
+C075905,981178,Marlene Meyerson JCC Manhattan (NY),47069,Marlene Meyerson JCC Manhattan
+C076338,983306,Carley Pries,47605,Carley Pries
+C076341,983311,Noele Eberle,47158,Noele Eberle
+C001544,21907,Evesham Township SD (NJ),47611,Evesham Township School District (NJ)
+C076438,983536,Highmark Charter School (UT),47632,Highmark Charter School
+C055953,329096,Lagkana Waters,47592,Lagkana Waters
+C076157,981630,Darci Arnold,47627,Darci Arnold
+C076357,983347,Jessica Littlejohn,47493,Jessica
+C076358,983348,Kortnie Henson,47625,Kortnie Henson
+C060076,664927,Barb Thomsen,45259,Barbara Thomsen
+C076377,983391,Katie Soto,47654,Katie Soto
+C076375,983389,Joanna Williams,47656,Joanna Williams
+C074147,976673,Beth Gast,47664,The Learning Choice Academy
+C056010,332329,Livingstone Adventist Academy (OR),47675,Livingstone Adventist Academy (OR)
+C076384,983419,Karen Klebe,47525,Karen Klebe
+C076525,984311,Greens Farms Elementary School (CT),43238,Jessica Olson
+C076401,983459,Lori Burton,47452,Lori Burton
+C074477,977285,Washington County BOE,47726,Washington County Board of Education (TN)
+C076409,983485,Anne Gustafson,47529,Anne Gustafson
+C076416,983499,Jessica Nixon,47494,jessica nixon
+C076414,983497,Donna Walker,47693,Donna Walker
+C060325,694143,Maia Proujansky-Bell,37395,Hudson Public Schools
+C011090,12039,San Mateo-Foster City SD (CA),47747,George Hall Elementary School
+C076456,983594,Mamye Gardner,36618,Spartanburg County School District #5 (CBS)
+C003883,27121,Parkway SD (MO),47768,Parkway School District (MO)
+C027417,29599,Jesup CSD (IA),47864,Jesup Community School District (IA)
+C069980,968349,SD of Oconee County (SC) - Purchasing,47866,School District of Oconee County (SC)
+C066399,960810,Our Lady of Lourdes (IL),47565,Amy Blackburn
+C051744,65006,Christine Fields,47330,Christine Fields
+C076475,983631,Dawn Grondin,37081,Oxford Hills School District (MSAD 17- ME)
+C060871,729851,Carla Chernoble,47657,Carla  Chernoble
+C076478,983634,Anita Trittschuh,47861,Anitra Trittschuh
+C062794,851274,Mallory Bravo,47159,Mallory Bravo
+C007026,27244,Dennis Township BOE (NJ),47913,Dennis Township Board of Education (NJ)
+C076491,983660,Thomas Hutchison,47640,Thomas Hutchison
+C076496,983691,Christina Anderson,47875,Christina Anderson
+C069401,966978,Joy LaVay Taylor,47876,Joy La Vay Taylor
+C024665,24130,Moreland SD (CA),47906,Moreland School District (CA)
+C076504,983747,Jennifer Johnson,47689,Jennifer Johnson
+C036691,25419,Anglophone North SD (CAN),47916,Anglophone North School District (CAN) - International
+C058926,543002,South Orangetown Central School District (NY),47915,South Orangetown Central School District (NY)
+C076435,983530,Dorothy Crooks,47751,Corinne Crooks
+C076543,984497,Elise Albrecht,47707,Elise Albrecht
+C070346,969007,Christine Reycroft,47935,Christine Reycroft
+C076548,984526,Sandra Baerwald,47943,Sandra Baerwald
+C070278,968879,Shannon Bateman,47650,Shannon Bateman
+C073089,974956,Kent Lake Elementary PTO (MI),48160,Kent Lake Elementary PTO (MI)
+C076573,984756,Black Gold School Division (CAN),47975,Black Gold School Division (CAN) - International
+C066319,960694,Nicole Stewart,47973,Nicole Stewart
+C058161,473300,Emily Smith,47974,Emily Smith
+C058957,546713,Michelle Peterson,47993,Michelle Peterson
+C005667,22087,Unified SD of De Pere (WI),48560,Unified School District of De Pere (WI)
+C022663,23849,Bobbie Williams,48015,Bobbie Williams
+C051426,54318,Cranberry Station Elementary (MD),37724,Carroll County Public Schools
+C076932,1002838,Judith Cummings,47646,Judith Cummings
+C071332,971114,Jennifer Lizotte,45565,Plainfield School District (NH)
+C080281,1020998,Michelle Lee,48014,Michelle Lee
+C080289,1021006,Marian Guanciale,48058,Marian Guanciale
+C080283,1021000,Chloe Schaeffer,47988,Chloe Lucy
+C068894,965828,Jackie Myers,48019,Jackie Myers
+C080345,1024375,Maggie Hubert,47955,Maggie Hubert
+C024916,19035,Rancho Santa Fe SD CA),48124,Rancho Santa Fe School District (CA)
+C057780,446617,Amanda Trebon,48118,Amanda Trebon
+C009114,1645,Neenah Joint SD (WI),48127,Michelle Cummings
+C023540,34118,Terri Davis,48136,Terri Davis
+C000114:3,987900,Anderson County (TN) : Norwood Elem (TN),47539,Anderson County Schools (TN) - CBS
+C080399,1029114,Sherry Mink,48145,Sherry
+C080403,1029225,Jeff Kosowan,48134,JPK
+C080422,1029438,Ivy Leonard,47883,susan Leonard
+C064916,957679,Sharon Heady-Labansky,47467,Sharon Labansky
+C020307,2900,Quincy Community Schools (MI),48203,Quincy Community Schools (MI)
+C050582,38810,Kaynetha Walker,48024,Kaynetha Walker
+C000114,11536,Anderson County (TN),48244,Anderson County (TN)
+C044334,21110,Amanda Parker,48077,Amanda Parker
+C055758,313110,Priscilla Bower,48221,Priscilla Bower
+C011347,1755,McLean County Unit District No. 5 (IL),48222,McLean County Unit District No. 5 (IL)
+C070511,969441,Erin Filiatreau,47895,Erin Filiatreau
+C020271:1,1030271,Grand Blanc Community Schools (MI) : Brendel Elem (MI),58,Grand Blanc Community Schools (CBS!!!)
+C059414,596750,Tina Wilkerson,48242,Tina Wilkerson
+C017528:1,1029936,Arlington CSD (NY) : Arthur S May Elem (NY),48267,Arlington Central SD (NY)
+C000114:5,1029701,Anderson County (TN) : Grand Oaks Elementary (TN),48244,Anderson County (TN)
+C017528:2,1029966,Arlington CSD (NY) : Titusville Intermediate (NY),48267,Arlington Central SD (NY)
+C000114:7,1029703,Anderson County (TN) : Dutch Valley Elementary (TN),47539,Anderson County Schools (TN) - CBS
+C080489,1030119,New Heights Charter School (CA),49116,New Heights Charter School (CA)
+C070736,969868,Victoria Schwartz,48154,Victoria Schwartz
+C000316:1,1030175,Beaufort CSD (SC) : Bluffton Elem (SC),37181,Beaufort County School District - SC
+C043204,5445,Bulloch County Schools (GA),48390,Bulloch County Schools (GA)
+C029103,24592,Holly Gordon,32166,Troy School District (MI)
+C080421,1029428,Quemado Independent Schools (NM),48429,Quemado Independent Schools (NM)
+C008769:1,1002745,Hillsdale CS (MI) : Gier Elem (MI),1874,Hillsdale Cmty Schools (MI)
+C064001,948127,Falcon Ridge Elementary (UT),48470,Falcon Ridge Elementary (UT)
+C015745:16,984224,Fayette CPS (KY) : Cassidy Elementary School (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C012776:1,1030418,Western Dubuque Schools (IA) : Peosta Elem (IA),32424,Western Dubuque Schools
+C044814,5670,Abbie Wonn,36618,Spartanburg County School District #5 (CBS)
+C066315,960686,Deborah Dufour,48477,Deborah Dufour
+C006761:1,1002762,Hanford Elem SD (CA) : Washington Elem (CA),40398,Hanford Elementary SD (CA)
+C010864:37,983881,Hillsborough County PS (FL) : Kingswood Elem (FL),46811,Hillsborough County Public Schools (FL)
+C004742:26,1029347,South-Western CS (OH) : Harmon Elem (OH),35471,South Western City Schools (OH) CBS
+C080608,1032365,Sherry Wheeler,35471,South Western City Schools (OH) CBS
+C001590:1,1027719,Farmingdale UFSD (NY) : Woodward Parkway Elem (NY),48655,Farmingdale UFSD (NY)
+C021702:1,1030258,Montrose Community Schools (MI) : Carter Elem (MI),39006,Montrose Community Schools
+C000523:1,1030763,Bradford Area SD (PA) : George G Blaisdell Elem (PA),48541,Bradford Area SD
+C004742:1,1021008,South-Western CS (OH) : Prairie Norton Elem (OH),35471,South Western City Schools (OH) CBS
+C006761:5,1002770,Hanford Elem SD (CA) : Martin Luther King Jr. Elem (CA),40398,Hanford Elementary SD (CA)
+C080635,1032645,Wendy Wittwer,48559,Wendy Wittwer
+C060337,695344,Sarah Barlowe,48558,Sarah Barlowe
+C009777:1,1032662,Marlboro Central SD (NY) : Marlboro Middle (NY),36850,Marlboro Central School District (NY)
+C006983:1,1032706,Ozark R-VI SD (MO) : Ozark West Elem (MO),49412,Ozark R-VI School District (MO)
+C080645,1032716,Crystal Thomas,48569,Crystal Thomas
+C038887,15386,Denise Glenn,48575,Denise Glenn
+C054955,243044,Faith Lutheran School (WI),48583,Faith Lutheran School (WI)
+C073923,976353,Terie Lynch,48465,theresa
+C001595,32095,Farmington PS (MI),48624,Farmington Public School District (MI)
+C058407,489369,Robyn Piers,39733,Rock Hill School District ((CBS!!))
+C071685,971958,Molly Moellering,48594,Molly Moellering
+C071151,970706,Meghann Hall,49411,Meghann Hall
+C003824:1,1032656,Oxford Hills SD (MSAD 17- ME) : Paris Elem (ME),37081,Oxford Hills School District (MSAD 17- ME)
+C004137:1,1032852,Randolph County Schools (NC) : Archdale Elem (NC),36892,Randolph County Board of Education (NC) - CBS
+C080672,1032881,Michael Moss,48612,Michael Moss
+C080682,1032950,Becky Lea,48506,Becky Lea
+C005382:2,1032928,West Fargo PS (ND) : L.E. Berger Elem (ND),36861,West Fargo Public School District #6 (ND) (CBS)
+C018251:1,1002859,Mamaroneck Union Free SD (NY) : Murray Ave School (NY),1035,Mamaroneck Union Free School District (NY)
+C001590,6405,Farmingdale UFSD (NY),48655,Farmingdale UFSD (NY)
+C080702,1033092,Gabriella Hansen,48653,Gabriella Hansen
+C066086,960272,Danielle Cobb,46806,Danielle Cobb
+C080700,1033089,Lori Schulte,48023,Lori Schulte
+C001590:2,1027721,Farmingdale UFSD (NY) : Saltzman East Memorial Elem (NY),48655,Farmingdale UFSD (NY)
+C071607,971808,Derby BOE (CT),48815,Derby Board of Education (CT)
+C059147:10,1029722,Ceres USD (CA) : Virginia Parks Elem (CA),42451,Ceres Unified School District (CA)
+C075021,978655,Katie Rothenbach,48664,Katie Rothenbach
+C080719,1033207,Jessica Clary,48579,Jessica Clary
+C001250:9,984713,Denton ISD (TX) : Savannah Elem (TX),38281,Denton Independent School District (TX)
+C000314:4,1030447,Beaufort CS (NC) : Chocowinity Primary School (NC),36813,Beaufort County Board of Ed (NC) (CBS)
+C080725,1033241,Judi Dinets,48599,Judi Dinets
+C065530,959146,Cristal Lugo,48550,Cristal Lugo
+C011314:1,1030348,Sun Prairie Area SD (WI) : Horizon Elem (WI),38249,Sun Prairie Area School District (WI) (CBS!!)
+C076460,983603,Stephanie Kotoff,35744,Torrance Unified School District
+C034865:5,984234,Jefferson County Schools (TN) : Piedmont Elementary School (TN),48882,Jefferson County Schools (TN)
+C003850:13,983906,Palo Alto USD (CA) : Juana Briones Elementary  (CA),36965,Palo Alto Unified School District (CBS)
+C080739,1033382,Alesia Hansen,48723,Alesia Hansen
+C080741,1033385,Deborah Skadberg,48721,Deborah Skadberg
+C006998:2,984479,Waukee CSD (IA) : Shuler Elementary (IA),36627,Waukee Community School District (IA)
+C080598,1032195,Bloom Beautiful Academy (FL),48761,Bloom Beautiful Academy (FL)
+C061763,788570,The Potomac School (VA),48759,The Potomac School (VA)
+C015993:4,1033359,Vernon BOE (CT) : Lake Street School (CT),38732,Vernon Public School District (CT)
+C080750,1033457,Corinne Fisher,35744,Torrance Unified School District
+C029380:13,1011219,Joliet Public SD No 86 (IL) : Pershing Elem (IL),48766,Joliet Public SD No 86 (IL)
+C005475,6562,Willard R-II Schools (MO),48799,Willard R-II Schools (MO)
+C005081:16,1033519,Torrance USD (CA) : Yukon Elem (CA),35744,Torrance Unified School District
+C019733:1,1033338,Pike County School System (KY) : Millard Elem (KY),108,Pike County Schools (KY) - CBS!
+C006761:7,1002778,Hanford Elem SD (CA) : Simas Elem (CA),40398,Hanford Elementary SD (CA)
+C080784,1033701,Chantel Kelly,48841,Chantel Kelly
+C076105,981548,Sonnenberg Schools (WI),47187,Sonnenberg Schools
+C006998:8,984486,Waukee CSD (IA) : Sugar Creek Elemetary  (IA),36627,Waukee Community School District (IA)
+C017527:57,1033307,Pinellas CS (FL) : Shore Acres Elem (FL),37383,Pinellas County Schools - CBS
+C002216:1,1032266,Holley Central School (NY) : Holley Elem (NY),44132,Holley Central School (NY)
+C080812,1033861,Dana Morrison,48403,Dana
+C003635:5,984086,North Kansas CS (MO) : Maplewood Elementary (MO),41799,North Kansas City Schools (MO)
+C004742:17,1029278,South-Western CS (OH) : Bolton Crossing Elem (OH),35471,South Western City Schools (OH) CBS
+C012459:6,1033818,Rochester CS (MI) : University Hills Elem (MI),37307,Rochester Community Schools
+C067605,963029,Hon Ellen,48638,Ellen Hon
+C080830,1033958,Elizabeth Weir,48119,Elizabeth Weir
+C006761:2,1002765,Hanford Elem SD (CA) : Lincoln Elem (CA),40398,Hanford Elementary SD (CA)
+C015745:39,1033992,Fayette CPS (KY) : Glendover Elem (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C003120:1,1032951,Marshfield R-I (MO) : Hubble Elem (MO),36896,Marshfield R-1 School District
+C004776:3,984354,Spartanburg CSD 7 (SC) : Pine Street Elem (SC),49124,Spartanburg County SD 7 (SC)
+C002508:1,1033901,Katy ISD (TX) : MayDell Jenks Elem (TX),48935,Katy ISD (TX)
+C015745:4,984170,Fayette CPS (KY) : Meadowthorpe Elementary School (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C052001,77136,Maryellen Rosenblum,48375,Maryellen Rosenblum
+C000321,32043,Beavercreek City Schools (OH),48937,Beavercreek City Schools (OH)
+C005107:8,1024913,Troy SD (MI) : Wattles Elementary (MI),32166,Troy School District (MI)
+C055521,287951,Emily Duncan,48923,Emily Duncan
+C003588:4,1034033,Niagara Wheatfield CSD (NY) : Tuscarora Nation School (NY),48955,Niagara Wheatfield CSD (NY)
+C043549:2,1034049,Victor Elem SD (CA) : Mojave Vista Elem (CA),35415,Victor Elementary School District (CA)
+C003040:1,984281,MSAD 41 (ME) : Brownville Elementary School (ME),36808,Maine School Admin District 41 (ME)
+C080854,1034081,Amy Hayes,48934,Amy Hayes
+C080853,1034075,Sophie Degener,48933,Sophie Degener
+C080861,1034133,Kristin Burmeister,48867,Kristin Burmeister
+C080869,1034196,Molly Grochala,48859,Molly Grochala
+C056711,381587,TerriAnn Silverman,48706,TerriAnn Silverman
+C066624,961188,Andrea Bell,48904,Andrea Bell
+C044368:2,1034003,Tri-County Regional Centre For Education : Forest Ridge Academy (CAN),49174,Forest Ridge Academy (CAN)
+C027210,8936,Michelle Rutherford,48938,Michelle Rutherford
+C080886,1034386,Melanie Ellsworth,48999,Melanie Ellsworth
+C004110:2,1033669,Quincy/Adams PSD #172 (IL) : Rooney Elem (IL),36755,Quincy School District 172 / Quincy/Adams PSD #172 (IL)
+C057464,428528,Lynn Pokryfky,49014,Lynn Raine
+C080897,1034463,Kathryn Gonzales,49012,Kathryn Gonzales
+C005789:1,1032925,Spartanburg SD 3 (SC) : Pacolet Elem (SC),49048,1 Spartanburg SD 3 (SC)
+C080908,1034601,Richard Thomas,49031,Richard Thomas
+C046739,5941,Laura Barron,49041,McNear Elementary
+C080917,1034645,Nicole Jezdimir,49046,Nicole Jezdimir
+C015745:18,984230,Fayette CPS (KY) : Ashland Elementary (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C080925,1034743,Leslie Reid,37451,Madison County Board of Education (KY) CBS
+C000104:1,986384,Amherst Public Schools (MA) : Wildwood Elem (MA),49063,Amherst Public Schools (MA)
+C080935,1034822,Hailey Larsen,49074,Hailey Larsen
+C053950,182305,Tara Almeida,49101,Tara Almeida
+C080953,1034972,Joanna Polisson,49106,Joanna Polisson
+C046403,5893,Greater Saskatoon Catholic Schools (CAN),49115,Greater Saskatoon Catholic Schools (CAN)
+C052871,140319,Brady Knepper,49139,Brady Knepper
+C045164,5719,Alissa Roe,49049,Alissa Roe
+C080978,1035270,Eric Lemmert,49142,Eric Lemmert
+C027110,34617,Carolyn Dwyer,49144,Carolyn Dwyer
+C080979,1035280,Rebekah Duda,49147,Rebekah Duda
+C005521:3,1033996,Wilson SD (PA) : Shiloh Hills Elem (PA),44300,Wilson School District (PA)
+C005521:1,1033827,Wilson SD (PA) : Cornwall Terrace Elem (PA),44300,Wilson School District (PA)
+C058694,516891,Tracy Steinke,49155,Tracy Steinke
+C064229:1,1033337,Fresno USD (CA) : Pyle Elem (CA),44458,Fresno Unified School District (CA)
+C019177,23360,Trevor Day School,49161,Trevor Day School
+C052997,145021,Jennifer Konarski,49159,Jennifer Konarski
+C080984,1035350,Jessica Willey,49162,Achieve Ability
+C001675:3,1033180,Fort Mill SD #4 (SC) : Flint Hill Elem (SC),49189,Fort Mill SD #4 (SC)
+C011915,6869,University of Utah Reading Clinic,49179,Karla Padilla
+C080993,1035418,Fatima Raheef,49178,Fatima raheef
+C080989,1035403,Reiko Kajima,35744,Torrance Unified School District
+C012878,27613,Summit SD RE-1 (CO),49188,Summit SD RE-1 (CO)
+C080995,1035438,Audrey Davis,49183,Audrey Davis
+C010581,22324,Donors Choose (NY),49233,Santa Clara USD (CA)
+C000700,1263,Cape Elizabeth SD (ME),49197,Cape Elizabeth SD (ME)
+C080996,1035476,Ainsley Harris,49190,Ainsley Harris
+C000700:1,1033366,Cape Elizabeth SD (ME) : Pond Cove Elem (ME),49197,Cape Elizabeth SD (ME)
+C080931,1034798,Oceanview Christian Academy (CAN),49212,Oceanview Christian Academy (CAN)
+C081012,1035567,Clara Goldfield,49213,Clara Goldfield
+C055502,285934,Elizabeth Brown,41649,Sheboygan Area School District
+C001822,11614,Gilbert Community School District (IA),49218,Gilbert Community School District (IA)
+C065160:1,1034128,La Center SD (WA) : La Center Elem (WA),41728,La Center School District
+C000267:3,1029834,Bangor SD (ME) : Vine Street Elem (ME),49222,Bangor SD (ME)
+C060192,678081,Sharon Walker-Spencer,49224,Sharon Walker-Spencer
+C054179,192541,Jamie Clements,49226,Jamie Clements
+C081022,1035730,Michael Fleischman,49228,Michael Fleischman
+C081026,1035761,Lara Burgess,49226,Jamie Clements
+C081027,1035762,Sunny Shariati,49226,Jamie Clements
+C001444:1,1026760,Edgerton SD (WI) : Edgerton Community Elem (WI),49240,Edgerton SD (WI)
+C069098,966283,Elizabeth Taing,49241,Elizabeth Taing
+C000369,26945,Belvidere SD #100 (IL),49247,Belvidere SD #100
+C001569:7,1023015,Fairfield PS (CT) : Holland Hill Elem (CT),49253,Fairfield Public School (CT)
+C081036,1035805,Natalie Snow,49239,Natalie Snow
+C000898:1,1035277,Clay County BOE (KY) : Oneida Elem (KY),49263,Clay County BOE (KY)
+C081015:1,1035603,Scio SD (OR) : Centennial Elem (OR),49258,Scio SD 95C (OR)
+C004837:28,1035331,St. Johns County SD (FL) : Hallowes Cove Acad (FL),46540,St. Johns County School District (FL)
+C019509:1,1033339,Grand Haven Area Public Schools (MI) : Peach Plains Elem (MI),49265,Grand Haven Area Public Schools (MI)
+C002057,32118,Harper Creek CS (MI),49266,Harper Creek CS (MI)
+C062988,863184,Northville PS (MI),49246,Northville PS (MI)
+C009771:1,1033868,Ann Arbor PS (MI) : Allen Elem (MI),49245,Ann Arbor PS (MI)
+C081041,1035838,Vanessa Suarez,32166,Troy School District (MI)
+C081042,1035839,Meagan Miller,49251,Meagan Miller
+C002034,21930,Hampton SD/SAU 90 (NH),49267,Hampton SD/SAU 90
+C004024,32194,Port Washington UFSD (NY),49277,Port Washington UFSD (NY)
+C081043,1035853,Bullis School (MD),49282,Bullis School (MD)
+C081011:1,1035555,Breckenridge ISD (TX) : East Elem (TX),49278,Breckenridge ISD (TX)
+C001675:5,1034278,Fort Mill SD #4 (SC) : Fort Mill Elem (SC),49189,Fort Mill SD #4 (SC)
+C001662:3,1032078,Forest Hills SD (OH) : Maddux Elem (OH),49279,Forest Hills SD (OH)
+C009898:1,1033436,West Linn Wilsonville SD (OR) : Trillium Creek Primary School (OR),49281,West Linn Wilsonville SD (OR)
+C037678:2,1029642,Anderson School District 4 (SC) : La France Elem (SC),49284,Anderson School District 4 (SC)
+C005183:1,1033400,Washington Co PS (VA) : Watauga Elem (VA),49285,Washington Co PS (VA)
+C004110:5,1035861,Quincy/Adams PSD #172 (IL) : Denman Elem (IL),36755,Quincy School District 172 / Quincy/Adams PSD #172 (IL)
+C004110:6,1035862,Quincy/Adams PSD #172 (IL) : Iles Elem (IL),36755,Quincy School District 172 / Quincy/Adams PSD #172 (IL)
+C013948,22653,Clarkston CS (MI),49283,Clarkston CS (MI)
+C007076:5,1033074,NYC DoE - The City of New York (NY) : PS 44 (NY),37188,NYC Dept of Ed - CBS!
+C003284:1,1033808,Middleton-Cross Plains Area SD (WI) : Elm Lawn Elem (WI),49286,Middleton-Cross Plains Area SD (WI)
+C069075:1,1033348,Taylor CS (WV) : Flemington Elem (WV),49287,Taylor CS (WV)
+C000776,32066,Centerville CS (OH),49289,Centerville CS (OH)
+C043457:2,1035912,East Windsor RSD (NJ) : Walter C. Black School (NJ),49288,East Windsor RSD (NJ)
+C002929:50,1033791,Loudoun County PS (VA) : Cool Spring Elem (VA),49304,Loudoun County PS (VA)
+C081059,1036004,Amanda Henson,49303,Brooke Wiseman
+C002821:19,983795,Lexington County SD One (SC) : South Lake Elem (SC),32134,Lexington County SD One (SC)
+C055657,302221,Brooke Wiseman,49303,Brooke Wiseman
+C001675:4,1034126,Fort Mill SD #4 (SC) : Riverview Elem (SC),49189,Fort Mill SD #4 (SC)
+C017803,12862,Decorah CSD (IA),49305,Decorah CSD (IA)
+C081062,1036046,Tanya Fox,49311,Tanya Fox
+C004717:2,1030925,South Country CSD (NY) : Brookhaven Elem (NY),49313,South Country CSD (NY)
+C004717:3,1035392,South Country CSD (NY) : Kreamer Street Elem (NY),49313,South Country CSD (NY)
+C068985,966014,Jasmine Ogega,48964,Jasmine Ogega
+C004717:1,1030417,South Country CSD (NY) : Verne W Critz Primary (NY),49313,South Country CSD (NY)
+C081066,1036097,Barrie Vilnius,49315,Barrie Vilnius
+C063043,867736,Dee Shell,49171,Dee Shell
+C081078,1036180,Candace Ziglor,49326,Pontiac Tutoring
+C020336,7975,Amber Salyers,49323,Amber Salyers
+C015745:21,984238,Fayette CPS (KY) : Mary Todd Elementary (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C058127,472280,Pemiscot County R-3 School District,49324,Pemiscot County R-3 School District
+C001590:4,1027723,Farmingdale UFSD (NY) : Northside Elem (NY),48655,Farmingdale UFSD (NY)
+C050786,40233,Portales Municipal Schools (NM),49327,Portales Municipal Schools (NM)
+C037712,20441,Debra Gadsden-Holiday,49330,Debra Gadsden-Holiday
+C073067,974919,Cathy Murphy,49280,Catherine Murphy
+C081072,1036128,Collegedale Academy (TN),49340,Collegedale Academy
+C043549:3,1035272,Victor Elem SD (CA) : Puesta Del Sol Elem (CA),35415,Victor Elementary School District (CA)
+C006761:4,1002768,Hanford Elem SD (CA) : Monroe Elem (CA),40398,Hanford Elementary SD (CA)
+C070853,970102,Mackenzie Fulmer,49338,Mackenzie Fulmer
+C026369:1,1035275,Mounds View PS (ISD 621) (MN) : Mountain View High School (MN),49339,Mounds View PS
+C017530:2,1036200,Middleburgh CSD (NY) : Middleburgh JR/SR High (NY),41510,Middleburgh CSD
+C018407:1,1033289,Lenox Public Schools : Morris Elem (MA),41578,Lenox Public Schools
+C008107:1,1032507,Great Neck PS (NY) : Elizabeth M. Baker School (NY),44225,Great Neck Public Schools (NY) - CBS
+C013027:2,1035172,Sweet Home CSD (NY) : Willow Ridge Elem (NY),37518,Sweet Home Central Sch Dist (NY)
+C013027:4,1035174,Sweet Home CSD (NY) : Maplemere Elem (NY),37518,Sweet Home Central Sch Dist (NY)
+C013027:3,1035173,Sweet Home CSD (NY) : Heritage Heights Elem (NY),37518,Sweet Home Central Sch Dist (NY)
+C013027:1,1032924,Sweet Home CSD (NY) : Glendale Elem (NY),37518,Sweet Home Central Sch Dist (NY)
+C020421:1,1030303,SD of West De Pere (WI) : Hemlock Creek Elem (WI),1168,West De Pere School District (CBS)
+C015713,27966,Deborah DeLong,37342,MSAD 49
+C039118,15417,Christian Academy School System (KY),49355,Christian Academy School System (KY) / Christian Academy of Indiana (IN)
+C081083,1036187,Christian Academy of Indiana (IN),49355,Christian Academy School System (KY) / Christian Academy of Indiana (IN)
+C081097,1036231,Melissa Zumbalo,49348,Melissa Zumbolo
+C016002,2316,Montecito Union School District (CA),49350,Montecito Union School District (CA)
+C001549:1,984491,Exeter USD - Tulare County TCOE (CA) : Rocky Hill Elementary (CA),35294,Exeter Unified School District
+C001549:2,984494,Exeter USD - Tulare County TCOE (CA) : Lincoln Elementary (CA),35294,Exeter Unified School District
+C002566,21953,Kimberly Area SD (WI),49364,Kimberly Area SD (WI)
+C009777:2,1035690,Marlboro Central SD (NY) : Marlboro Elementary School (NY),36850,Marlboro Central School District (NY)
+C060785:2,1036235,Maine School Admin District 59 (ME) : Main Street Middle School (ME),40104,Maine School Admin District 59
+C007403:1,1036236,Winchester Public Schools (MA) : Muraco Elem (MA),49357,Winchester Public Schools (MA)
+C011362:2,1036265,Saco School Department (ME) : Fairfield School (ME),36952,Saco Schools **CBS**
+C011362:1,1036260,Saco School Department (ME) : Young School (ME),36952,Saco Schools **CBS**
+C007160:1,1035973,Eastport/South Manor CSD (NY) : Tuttle Avenue Elem (NY),49365,Eastport/South Manor CSD (NY)
+C044940,5688,The Prairie School (WI),49440,The Prairie School (WI)
+C000283:1,1032610,Barnstead SD (NH) : Barnstead Elem (NH),49370,Barnstead SD (NH)
+C081117,1036273,Melissa White,48895,Melissa White
+C013759:1,1036262,Simsbury Public Schools (CT) : Simsbury High School (CT),37361,Simsbury Public Schools (CT)
+C012213:2,1034680,East Grand Rapids PS (MI) : Wealthy Elem (MI),49372,East Grand Rapids PS (MI)
+C043549:7,1035911,Victor Elem SD (CA) : Endeavour School (CA),35415,Victor Elementary School District (CA)
+C006999:1,983916,Garner-Hayfield-Ventura Community Schools (IA) : Garner-Hayfield-Ventura CSD Elementary (IA),46505,Garner-Hayfield-Ventura Community Schools (IA)
+C067075,962047,Spencer Valley Elem SD (CA),49378,Spencer Valley Elem SD (CA)
+C017527:58,1036223,Pinellas CS (FL) : Maderia Beach Fundamental (FL),37383,Pinellas County Schools - CBS
+C002821:18,983793,Lexington County SD One (SC) : Centerville Elementary (SC),32134,Lexington County SD One (SC)
+C081091,1036216,Maria Florian,49377,Maria Florian
+C001403:1,1030219,East Granby BOE (CT) : Carl Allgrove Elem (CT),32518,East Granby Board of Education (CT)
+C081138,1036312,Blain Searle,49224,Sharon Walker-Spencer
+C081141,1036315,Jennifer Drum,49392,Jennifer Drum
+C081144,1036318,Robyn Asbury,49362,Robyn Asbury
+C005068:2,1034971,Todd County SD 66-1 (SD) : O'Kreek School (SD),36886,Todd County School District 66-1 (SD)
+C014329:1,984850,RSU 68/MSAD 68 (ME) : Sedomocha Elem (ME),38284,RSU 68/MSAD 68 (ME)
+C081133,1036304,Brittany Bishop,37342,MSAD 49
+C056478:2,1035706,Plainview Old-Bethpage CSD (NY) : Pasadena Elementary (NY),49391,Plainview Old-Bethpage CSD (NY)
+C016917:4,984005,Madison County BOE (KY) : White Hall Elementary (KY),37451,Madison County Board of Education (KY) CBS
+C081134,1036305,Denver Christian Academy (NC),49227,Denver Christian Academy
+C007026:2,1036322,Dennis Township BOE (NJ) : Dennis Township Primary School (NJ),47913,Dennis Township Board of Education (NJ)
+C001445:1,1035464,Edgewater Park Township BOE (NJ) : Magowan Elem (NJ),37068,Edgewater Park Township School District
+C002674:1,1032465,Lake Pend Oreille SD 84 (ID) : Washington Elem (ID),49456,Lake Pend Oreille SD 84 (ID)
+C005610:1,1030011,York School Department (ME) : Village Elem (ME),49405,York School Department (ME)
+C064229:2,1036369,Fresno USD (CA) : Farber Educational Campus (CA),44458,Fresno Unified School District (CA)
+C020271:9,1036371,Grand Blanc Community Schools (MI) : Grand Blanc East Middle (MI),58,Grand Blanc Community Schools (CBS!!!)
+C057897,457101,Spartanburg Preparatory School (SC),49409,Spartanburg Preparatory School (SC)
+C010917:2,1036373,Linden CS (MI) : Hyatt Elem (MI),36829,Linden Community Schools (MI)
+C068494:2,983970,Maine SAD #44 (ME) : Crescent Park School (ME),46296,Maine School Administrative District #44 (RSU 44/MSAD 44)
+C025403:3,1036225,Cresskill BOE (NJ) : Edward H Bryan Elem (NJ),42091,Cresskill Board of Education (NJ)
+C002721,27056,Las Lomitas Elem SD (CA),47166,Las Lomitas EDS (CA)
+C065397:3,983821,Brownsburg Community School Corp (IN) : Delaware Trail Elementary (IN),42785,Brownsburg Community Schools
+C081171:1,1036386,Caruthers USD (CA) : Caruthers High School (CA),49533,Caruthers USD (CA)
+C021007:9,984397,Port Huron Area SD (MI) : Michigamme Elementary (MI),49410,Port Huron Area School District (MI)
+C056478:3,1035709,Plainview Old-Bethpage CSD (NY) : Stratford Road Elementary (NY),49391,Plainview Old-Bethpage CSD (NY)
+C056478:4,1035711,Plainview Old-Bethpage CSD (NY) : Old Bethpage Elementary (NY),49391,Plainview Old-Bethpage CSD (NY)
+C056478:1,1035704,Plainview Old-Bethpage CSD (NY) : Judy Jacobs Parkway Elem (NY),49391,Plainview Old-Bethpage CSD (NY)
+C073659,975985,Sally Gellhaus,49369,Sally Gellhaus
+C022622:1,1035528,Denville Township BOE (NJ) : Riverview Elem (NJ),38576,Denville Township Board of Education
+C011615:1,1035044,Earlham CSD (IA) : Earlham Elem (IA),174,Earlham CSD (IA)
+C051324,53445,Joseph F. Pollack Academic Center of Excellence (PACE),49420,Joseph F. Pollack Academic Center of Excellence/PACE Academy (MI)
+C024665:1,1030589,Moreland SD (CA) : Payne Elem (CA),47906,Moreland School District (CA)
+C001321:7,1035479,Douglas County SD RE 1 (CO) : Legacy Campus (CO),46410,Douglas County School District RE 1 (CO)
+C002811:1,1030179,SD Five of Lexington and Richland Counties (SC) : Leaphart Elem (SC),49421,SD Five of Lexington and Richland Counties (SC)
+C065592,959324,Amy Maragh,49428,Amy Maragh
+C073442,975622,Shari Sloane,49427,Shari Sloane
+C001675:12,1034285,Fort Mill SD #4 (SC) : Pleasant Knoll Elem (SC),49189,Fort Mill SD #4 (SC)
+C021007:7,984395,Port Huron Area SD (MI) : Keewahdin Elementary (MI),49410,Port Huron Area School District (MI)
+C021007:4,984387,Port Huron Area SD (MI) : Indian Woods Elementary (MI),49410,Port Huron Area School District (MI)
+C021007:3,984265,Port Huron Area SD (MI) : Garfield Elementary (MI),49410,Port Huron Area School District (MI)
+C021007:2,984262,Port Huron Area SD (MI) : Edison Elementary (MI),49410,Port Huron Area School District (MI)
+C019733:2,1036442,Pike County School System (KY) : Valley Elem (KY),108,Pike County Schools (KY) - CBS!
+C021007:6,984393,Port Huron Area SD (MI) : Cleveland Elementary (MI),49410,Port Huron Area School District (MI)
+C080500,1030173,Shoal Creek Elem PTA (MO),49431,Liberty Public Schools (MO)
+C021007:1,984256,Port Huron Area SD (MI) : H.D. Crull Elementary School (MI),49410,Port Huron Area School District (MI)
+C021007:11,984401,Port Huron Area SD (MI) : Roosevelt Elementary (MI),49410,Port Huron Area School District (MI)
+C021007:10,984400,Port Huron Area SD (MI) : Woodrow Wilson Elementary School (MI),49410,Port Huron Area School District (MI)
+C003857:1,1035094,Paoli Community School Corp (IN) : Throop Elem (IN),38943,Paoli Community School Corporation
+C017527:7,1030927,Pinellas CS (FL) : Ponce De Leon Elem (FL),37383,Pinellas County Schools - CBS
+C003324,32163,SD of Milton (WI),49439,SD of Milton (WI)
+C007483:2,1036332,Lovejoy ISD (TX) : Hart Elem (TX),43753,Lovejoy ISD (TX)
+C031088:2,1036334,Katonah-Lewisboro Schools (NY) : Increase Miller Elem (NY),38285,Katonah-Lewisboro Schools (NY)
+C007808,17059,Amy Messbarger,49450,Amy Messbarger
+C003883:3,1036492,Parkway SD (MO) : Claymont Elem (MO),47768,Parkway School District (MO)
+C001675:11,1034284,Fort Mill SD #4 (SC) : Orchard Park Elem (SC),49189,Fort Mill SD #4 (SC)
+C021901,28826,Lenawee Christian School (MI),49454,Lenawee Christian School
+C075363,979787,James Stephens Elementary (FL),37323,School District of Lee County (FL)
+C000159:1,984184,Arcata SD (CA) : Arcata Elementary School (CA),43597,Arcata School District
+C008784:2,1036494,Seneca Falls CSD (NY) : Seneca Falls Middle (NY),32196,Seneca Falls Central School District (NY)
+C014360:2,1002172,Marshall PS (MI) : Harrington Elementary (MI),38419,Marshall Public School District (MI)
+C005397:1,1032516,West Springfield SD (MA) : Tatham Elem (MA),49455,West Springfield SD
+C015745:19,984233,Fayette CPS (KY) : Sandersville Elementary (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C000390,26946,Berkeley USD (CA),49459,Berkeley USD
+C016273:3,1033812,Fond Du Lac SD (WI) : Riverside Elem (WI),49460,Fond Du Lac SD (WI)
+C004031:2,983912,Portland SD (CT) : Gildersleeve (CT),44633,Mary Tammaro
+C002821:6,983774,Lexington County SD One (SC) : Red Bank Elementary (SC),32134,Lexington County SD One (SC)
+C025260:1,1036477,Mount Prospect School District 57 : Lion's Park School (IL),42343,Mount Prospect SD 57 (CBS!!)
+C036666:3,1036514,Academy Charter School (NY) : Hempstead Elem (NY),37731,Academy Charter School Wyandanch (NY)
+C014168,2083,New Directions Learning Community (WI),49473,New Directions Learning Community (WI)
+C064428:3,984709,Owen County BOE (KY) : Owen County Elem (KY),42411,Owen County Schools (KY)
+C081250,1036528,Muse Schools (CA),49470,MUSE Virtual School
+C004410:2,1033231,San Francisco USD (CA) : Alice Fong Yu Alternative Sch (CA),49472,San Francisco USD (CA)
+C020271:10,1036508,Grand Blanc Community Schools (MI) : Bobcat Virtual Learning (MI),58,Grand Blanc Community Schools (CBS!!!)
+C015745:7,984195,Fayette CPS (KY) : Dixie Elementary (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C017471:2,983705,Berrien Springs PS (MI) : Sylvester Elementary  (MI),43234,Berrien Springs Public Schools (MI)
+C017471:1,983704,Berrien Springs PS (MI) : Mars Elementary (MI),43234,Berrien Springs Public Schools (MI)
+C008380:1,1036419,School Union 93 (ME) : Surry Elem (ME),49483,School Union 93 (ME)
+C001818:3,1034558,Gibraltar SD (MI) : Parsons Elem (MI),36560,Gibraltar School District (MI)
+C081307,1036658,Onaga-Havensville-Wheaton USD 322 (KS),49561,Onaga-Havensville-Wheaton USD 322 (KS)
+C005480:1,1033766,William Floyd SD (NY) : William Floyd Elem (NY),43048,William Floyd School District (CBS!!)
+C081230,1036489,Edwin Cebrian,49484,Edwin Cebrian
+C043549:5,1035646,Victor Elem SD (CA) : Baker 21st Century Learning Ctr,35415,Victor Elementary School District (CA)
+C075629,980527,Noor International Academy (MI),49524,Noor International Academy (MI)
+C015434:4,1035175,Lapeer Community Schools (MI) : Lapeer Virtual Partnership (MI),41122,Lapeer Community Schools
+C017311:1,1036597,Franklin Monroe SD (OH) : Franklin Monroe Elem (OH),49511,Franklin Monroe SD (OH)
+C021764:3,984144,Owosso PS (MI) : Emerson Elementary (MI),36814,Owosso Public Schools (MI)
+C081276,1036604,Kathryn Brewster,49504,Kathryn Brewster
+C080926,1034745,Baker Charter Schools (OR),40174,Baker Charter Schools
+C058571,503653,Alysha Bodanza,49398,Alysha Bodanza
+C003988,27125,World Headquarters - Pioneer Valley Educational Press,48655,Farmingdale UFSD (NY)
+C000137:1,989522,Annandale School District #876 (MN) : Annandale Elementary School (MN),5361,Annandale School District #876 (MN)
+C015745:10,984207,Fayette CPS (KY) : Breckenridge Elementary (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C001675:13,1034286,Fort Mill SD #4 (SC) : Springfield Elem (SC),49189,Fort Mill SD #4 (SC)
+C005382:12,1032982,West Fargo PS (ND) : Osgood Elementary (ND),36861,West Fargo Public School District #6 (ND) (CBS)
+C060785:1,1035632,Maine School Admin District 59 (ME) : Madison Elem (ME),40104,Maine School Admin District 59
+C081288,1036630,St. Mary's Elem School (MD),36481,St Mary's Annapolis
+C015745:6,984175,Fayette CPS (KY) : James Lane Allen Elementary (KY),36540,"Fayette County Public Schools, IAKSS (KY){CBS!!!}"
+C004148,22021,Rapid City Area Schools (SD),49525,Rapid City Area Schools (SD)
+C071296,971036,Saint Michael School (MA),42367,St. Michael School (MA)
+C047982,26744,Kathleen McLean,49566,Kathleen McLean
+C071117,970632,Anne Jordan,49565,Anne Marie Jordan
+C022846,28959,Elizabeth Rogers,49048,1 Spartanburg SD 3 (SC)
+C081334,1036727,Michelle Holeve,49532,Michelle Holeva
+C005755:2,1036447,Maine School Admin District #75 (ME) : Bowdinham Community School (ME),38488,Maine School Admin District #75 (MSAD 75)

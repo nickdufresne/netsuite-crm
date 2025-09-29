@@ -1,0 +1,1 @@
+docker exec -i docker-postgres-postgres-1 psql -U nickd -d literacyfootprints_template --csv < ~/dev/netsuite-crm/account-change-orders/scripts/2-export-subscriptions.sql > ~/dev/netsuite-crm/account-change-orders/dr-subscriptions.csv
